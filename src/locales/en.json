@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Universal Tower Defense Z Wiki - Codes, Units & Tier List",
+      "description": "Universal Tower Defense Z Wiki with codes, units, tier list, traits, evolutions, raids, update guides, and beginner tips for Roblox players.",
+      "keywords": "Universal Tower Defense Z, Roblox, codes, units, tier list, traits, evolution, raids",
+      "ogTitle": "Universal Tower Defense Z Wiki - Codes, Units & Tier List",
+      "ogDescription": "Universal Tower Defense Z Wiki with codes, units, tier list, traits, evolutions, raids, update guides, and beginner tips for Roblox players.",
+      "twitterTitle": "Universal Tower Defense Z Wiki - Codes, Units & Tier List",
+      "twitterDescription": "Universal Tower Defense Z Wiki with codes, units, tier list, traits, and update guides for Roblox players."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Anime Strategy Tower Defense",
+    "title": "Universal Tower Defense Z Wiki",
+    "description": "Summon anime-style units, defend against enemy waves, team up with friends, evolve your roster, reroll traits, and clear challenging Roblox tower defense modes.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "280M+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "72K+",
+        "label": "Players Online"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "201K+",
+        "label": "Favorites"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "12",
+        "label": "Max Server Size"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Ready to Play Universal Tower Defense Z?",
+    "description": "Join the Universal Tower Defense Z community on Discord for codes, updates, tier lists, and discussions!",
     "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Universal Tower Defense Z Wiki",
+    "description": "Your complete resource hub for Universal Tower Defense Z codes, units, tier list, traits, evolutions, and update guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "roblox": "Roblox",
+    "youtube": "YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Universal Tower Defense Z Wiki. Not affiliated with the developers of Universal Tower Defense Z.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
