@@ -1,11 +1,1123 @@
 {
+  "seo": {
+    "home": {
+      "title": "Universal Tower Defense Z Wiki - Códigos, Unidades e Tier List",
+      "description": "Universal Tower Defense Z Wiki com códigos, unidades, tier list, traits, evoluções, raids, guias de atualização e dicas para iniciantes para jogadores de Roblox.",
+      "keywords": "Universal Tower Defense Z, Roblox, códigos, unidades, tier list, traits, evolução, raids",
+      "ogTitle": "Universal Tower Defense Z Wiki - Códigos, Unidades e Tier List",
+      "ogDescription": "Universal Tower Defense Z Wiki com códigos, unidades, tier list, traits, evoluções, raids, guias de atualização e dicas para iniciantes para jogadores de Roblox.",
+      "twitterTitle": "Universal Tower Defense Z Wiki - Códigos, Unidades e Tier List",
+      "twitterDescription": "Universal Tower Defense Z Wiki com códigos, unidades, tier list, traits e guias de atualização para jogadores de Roblox."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "guide": "Guia",
     "optimizer": "Otimizador",
     "etherealize": "Etherealize",
     "zoro": "Zoro",
-    "boss": "Chefe",
+    "boss": "Boss",
     "event": "Evento"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar para o Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Leia Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Tower Defense de Estratégia de Anime",
+    "title": "Universal Tower Defense Z Wiki",
+    "description": "Invoque unidades em estilo anime, defenda-se de ondas de inimigos, junte-se a amigos, evolua seu elenco, faça reroll de traits e vença modos desafiadores de tower defense no Roblox.",
+    "getFreeCodesCTA": "Obtenha Códigos Grátis",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "280M+",
+        "label": "Total de Visitas"
+      },
+      "stat2": {
+        "value": "72K+",
+        "label": "Jogadores Online"
+      },
+      "stat3": {
+        "value": "201K+",
+        "label": "Favoritos"
+      },
+      "stat4": {
+        "value": "12",
+        "label": "Tamanho Máximo do Servidor"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay de Universal Tower Defense Z",
+    "description": "Invoque unidades no estilo anime, defenda-se de ondas de inimigos, junte-se com amigos e melhore seu elenco através dos sistemas Etherealize e Evolve nesta experiência de tower defense do Roblox."
+  },
+  "tools": {
+    "title": "Universal Tower Defense Z",
+    "titleHighlight": "Recursos",
+    "subtitle": "Tudo o que você precisa para códigos, unidades, tier lists, traits, evolução, modos e atualizações no Universal Tower Defense Z",
+    "cards": [
+      {
+        "icon": "Copy",
+        "title": "Códigos de Universal Tower Defense Z",
+        "description": "Códigos de resgate ativos para rerolls gratuitos, gemas e moedas de evento"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guia para Iniciantes de Universal Tower Defense Z",
+        "description": "Ciclo do primeiro dia: invocar, posicionar, defender, melhorar e progredir"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Tier List de Unidades de Universal Tower Defense Z",
+        "description": "Unidades do meta classificadas por função para cada modo de jogo"
+      },
+      {
+        "icon": "Star",
+        "title": "Melhores Unidades de Universal Tower Defense Z",
+        "description": "Melhores alvos de build para DPS, suporte, farm e eliminação de chefes"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Traits e Rerolls de Universal Tower Defense Z",
+        "description": "Gaste rerolls em unidades que você vai manter, não nas iniciais"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Guia de Evolução de Universal Tower Defense Z",
+        "description": "Suba de nível, use Etherealize e evolua unidades carry de longo prazo"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Modos de Jogo de Universal Tower Defense Z",
+        "description": "História, Raids, Desafios, Virtual Realm e eventos"
+      },
+      {
+        "icon": "Clock",
+        "title": "Atualização 4.0 de Universal Tower Defense Z",
+        "description": "Conteúdo do patch mais recente, trailer e novos códigos lançados"
+      }
+    ]
+  },
+  "modules": {
+    "utdzCodes": {
+      "title": "Códigos de Universal Tower Defense Z",
+      "intro": "Os códigos de Universal Tower Defense Z são resgatados dentro do menu Codes do jogo. Inicie a experiência no Roblox, pressione o botão Codes no lado direito da tela, cole um código ativo e pressione Redeem para resgatar a recompensa.",
+      "codes": [
+        {
+          "code": "SrryForWhoopsie!",
+          "status": "ativo",
+          "rewards": [
+            "1 Ruler Ticket"
+          ],
+          "category": "Recompensa da Atualização 4.0"
+        },
+        {
+          "code": "ReapersVsHollowDestroyers",
+          "status": "ativo",
+          "rewards": [
+            "50 Rerolls de Traits",
+            "10.000 Gemas"
+          ],
+          "category": "Recompensa da Atualização 4.0"
+        },
+        {
+          "code": "SpectacularSpider!",
+          "status": "ativo",
+          "rewards": [
+            "50 Rerolls de Traços",
+            "100.000 Gemas Universais Temporada 1 Parte 1"
+          ],
+          "category": "Recompensa da Atualização 4.0"
+        },
+        {
+          "code": "TheGuyFromSmash!",
+          "status": "ativo",
+          "rewards": [
+            "50 Rerolls de Traços",
+            "100.000 Gemas Universais Temporada 1 Parte 2"
+          ],
+          "category": "Recompensa da Atualização 4.0"
+        },
+        {
+          "code": "Summer2026!",
+          "status": "ativo",
+          "rewards": [
+            "50 Rerolls de Traços",
+            "10.000 Moeda de Verão"
+          ],
+          "category": "Recompensa do evento de Verão"
+        },
+        {
+          "code": "UTDPhase3!",
+          "status": "expirado",
+          "rewards": [
+            "Grimmjow",
+            "Materiais de Evo",
+            "150 Rerolls de Traços",
+            "100.000 Gemas Universais Parte 1"
+          ],
+          "category": "Código expirado recente"
+        },
+        {
+          "code": "UTDXRulerIncident!",
+          "status": "expirado",
+          "rewards": [
+            "2 Tickets de Ruler",
+            "Requisito de Nível 30"
+          ],
+          "category": "Código expirado recente"
+        },
+        {
+          "code": "UniversalTowerDefenseZ!",
+          "status": "expirado",
+          "rewards": [
+            "Vergil Evoluído",
+            "250 Rerolls de Traços",
+            "Espada do Alpha Devil",
+            "Fragmentos Universais",
+            "Fragmentos do Oceano",
+            "Fragmentos do Céu",
+            "100.000 Gemas Universais Parte 2"
+          ],
+          "category": "Código de atualização principal"
+        },
+        {
+          "code": "UniversalDelayDefense!",
+          "status": "expirado",
+          "rewards": [
+            "500 Rerolls de Traços",
+            "25.000 Gemas",
+            "Gemas Universais",
+            "Unidade Devil Hunter",
+            "Itens de Evolução",
+            "50 Cápsulas de Chamas e Ondas"
+          ],
+          "category": "Código de compensação por atraso"
+        },
+        {
+          "code": "200KInterestedSouls!",
+          "status": "expirado",
+          "rewards": [
+            "200 Rerolls de Traço",
+            "20.000 Gemas",
+            "50.000 Gemas Universais Parte 2"
+          ],
+          "category": "Código de meta"
+        }
+      ]
+    },
+    "utdzBeginnerGuide": {
+      "title": "Guia do Iniciante de Universal Tower Defense Z",
+      "intro": "Universal Tower Defense Z é um jogo de tower defense no Roblox onde você invoca unidades em estilo anime, as posiciona nos mapas, defende contra ondas de inimigos e as fortalece por meio dos sistemas de subir de nível, Etherealize e Evolução.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comece resgatando códigos",
+          "goal": "Colete rerolls grátis, Gemas, Gemas Universais, tíquetes e moedas de evento antes de gastar recursos.",
+          "actions": [
+            "Abra o Universal Tower Defense Z no Roblox",
+            "Pressione o botão de Códigos no menu do lado direito",
+            "Cole os códigos ativos e resgate todas as recompensas"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Invoque uma primeira equipe utilizável",
+          "goal": "Monte um elenco básico antes de avançar para fases mais difíceis.",
+          "actions": [
+            "Use Gemas e tíquetes nas invocações de unidades",
+            "Mantenha pelo menos uma unidade terrestre forte",
+            "Adicione uma unidade de colina ou híbrida para inimigos voadores",
+            "Guarde os rerolls premium para as unidades que você planeja manter"
+          ]
+        },
+        {
+          "step": 3,
+          "title": "Posicione as torres onde elas cubram caminhos longos",
+          "goal": "Consiga mais dano de cada unidade usando posições fortes no mapa.",
+          "actions": [
+            "Posicione o DPS inicial perto de curvas ou caminhos retos tempos",
+            "Coloque unidades de colina e híbridas onde elas possam atingir inimigos aéreos",
+            "Evite distribuir melhorias entre muitas unidades fracas"
+          ]
+        },
+        {
+          "step": 4,
+          "title": "Melhore sua unidade carry primeiro",
+          "goal": "Limpe as primeiras ondas mais rápido e reduza os vazamentos.",
+          "actions": [
+            "Escolha seu melhor causador de dano",
+            "Melhore essa unidade antes de preencher todos os espaços",
+            "Use unidades de suporte ou farm após o seu primeiro núcleo de dano estar estável"
+          ]
+        },
+        {
+          "step": 5,
+          "title": "Progrida pelo Modo História",
+          "goal": "Desbloqueie mais conteúdos, recursos e caminhos de melhoria de unidades.",
+          "actions": [
+            "Conclua as fases da História em ordem",
+            "Jogue as fases novamente quando precisar de Gemas ou materiais",
+            "Vá para Desafios, Raids e Virtual Realm após sua equipe estar estável"
+          ]
+        },
+        {
+          "step": 6,
+          "title": "Suba o nível, Eterilize e Evolua unidades",
+          "goal": "Transforme invocações fortes em unidades carry de longo prazo.",
+          "actions": [
+            "Suba o nível de unidades úteis em vez de todas as unidades",
+            "Use Eterilizar para aumentar o poder das unidades",
+            "Farme materiais de evolução para unidades que desbloqueiam formas mais fortes"
+          ]
+        }
+      ]
+    },
+    "utdzUnitTierList": {
+      "title": "Tier List de Unidades de Universal Tower Defense Z",
+      "intro": "Esta grade de tier foca em unidades que são comumente usadas para História, Infinito, Raids, Desafios, Reino Virtual, lutas contra chefes e montagem de equipes no late game.",
+      "tiers": [
+        {
+          "tier": "S+",
+          "label": "Carries principais do meta",
+          "units": [
+            {
+              "name": "Joyful Captain",
+              "roles": [
+                "DPS",
+                "suporte",
+                "terrestre"
+              ],
+              "bestFor": [
+                "Infinito",
+                "late game",
+                "dano contra chefes"
+              ]
+            },
+            {
+              "name": "Jinoo (Shadow Monarch)",
+              "roles": [
+                "DPS",
+                "escalamento"
+              ],
+              "bestFor": [
+                "Infinito",
+                "ondas longas",
+                "late game"
+              ]
+            },
+            {
+              "name": "The Strongest of Today",
+              "roles": [
+                "DPS",
+                "suporte de debuff",
+                "terrestre"
+              ],
+              "bestFor": [
+                "Raids",
+                "chefes",
+                "controle de ondas altas"
+              ]
+            },
+            {
+              "name": "The Strongest in History",
+              "roles": [
+                "DPS",
+                "matador de chefes"
+              ],
+              "bestFor": [
+                "Raids",
+                "lutas contra chefes",
+                "endgame"
+              ]
+            },
+            {
+              "name": "King Sailor (Unrivaled)",
+              "roles": [
+                "DPS",
+                "buff de equipe",
+                "terrestre"
+              ],
+              "bestFor": [
+                "Infinito",
+                "slot de líder de equipe",
+                "limpeza AOE"
+              ]
+            },
+            {
+              "name": "Ancient Mage (Sage)",
+              "roles": [
+                "DPS",
+                "suporte",
+                "utilidade"
+              ],
+              "bestFor": [
+                "História",
+                "Raids",
+                "equipes flexíveis"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "S",
+          "label": "Excelentes opções de endgame",
+          "units": [
+            {
+              "name": "Gluttonous Warlord (Despair)",
+              "roles": [
+                "DPS",
+                "terrestre"
+              ],
+              "bestFor": [
+                "late game",
+                "dano a chefes"
+              ]
+            },
+            {
+              "name": "Triple Threat (Unrivaled)",
+              "roles": [
+                "DPS",
+                "sangramento",
+                "buff de líder"
+              ],
+              "bestFor": [
+                "eliminação de chefes",
+                "equipes do Universal Festival"
+              ]
+            },
+            {
+              "name": "Marine Hero (Grand Fist)",
+              "roles": [
+                "DPS",
+                "terrestre"
+              ],
+              "bestFor": [
+                "História",
+                "Infinito",
+                "Raids"
+              ]
+            },
+            {
+              "name": "Alpha Devil (Omega)",
+              "roles": [
+                "DPS",
+                "atordoamento",
+                "unidade de evento"
+              ],
+              "bestFor": [
+                "chefes",
+                "equipes de evento",
+                "dano de stall"
+              ]
+            },
+            {
+              "name": "Phantom Captain (Carrier)",
+              "roles": [
+                "DPS",
+                "dano de invocação",
+                "AOE"
+              ],
+              "bestFor": [
+                "limpeza de ondas",
+                "dano contínuo"
+              ]
+            },
+            {
+              "name": "Mimicry Sorcerer (Cursed Love)",
+              "roles": [
+                "DPS",
+                "synchro",
+                "terrestre"
+              ],
+              "bestFor": [
+                "Synchro Clash",
+                "DPS de late-game"
+              ]
+            },
+            {
+              "name": "Love Goddess",
+              "roles": [
+                "suporte",
+                "buff",
+                "economia"
+              ],
+              "bestFor": [
+                "times de carry único",
+                "Virtual Realm"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Alternativas fortes",
+          "units": [
+            {
+              "name": "Prodigy Mage (Apprentice)",
+              "roles": [
+                "suporte",
+                "buff",
+                "stall"
+              ],
+              "bestFor": [
+                "times de suporte",
+                "Infinito"
+              ]
+            },
+            {
+              "name": "Virtual Idol (Super Star)",
+              "roles": [
+                "suporte",
+                "buff"
+              ],
+              "bestFor": [
+                "Infinito",
+                "buffs de alcance e dano"
+              ]
+            },
+            {
+              "name": "Sharpshooter King (Trapper)",
+              "roles": [
+                "DPS",
+                "colina"
+              ],
+              "bestFor": [
+                "cobertura aérea",
+                "progressão de mid-game"
+              ]
+            },
+            {
+              "name": "Crow Shinobi (Reanimated)",
+              "roles": [
+                "DPS",
+                "debuff",
+                "AOE"
+              ],
+              "bestFor": [
+                "Fases Legend",
+                "times de debuff"
+              ]
+            },
+            {
+              "name": "Sasku (Great War)",
+              "roles": [
+                "DPS",
+                "suporte",
+                "debuff"
+              ],
+              "bestFor": [
+                "Raids",
+                "História",
+                "times flexíveis"
+              ]
+            },
+            {
+              "name": "Rule (ROOM)",
+              "roles": [
+                "DPS",
+                "utilidade"
+              ],
+              "bestFor": [
+                "História",
+                "times de mid-game"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Escolhas de progressão utilizáveis",
+          "units": [
+            {
+              "name": "The Drink (Survivor)",
+              "roles": [
+                "DPS",
+                "terrestre"
+              ],
+              "bestFor": [
+                "História",
+                "Infinito inicial"
+              ]
+            },
+            {
+              "name": "Psycho (100%)",
+              "roles": [
+                "DPS",
+                "utilidade"
+              ],
+              "bestFor": [
+                "História",
+                "mid-game"
+              ]
+            },
+            {
+              "name": "Koyote (Number One)",
+              "roles": [
+                "DPS"
+              ],
+              "bestFor": [
+                "progressão",
+                "dano secundário"
+              ]
+            },
+            {
+              "name": "Super Roku (Enraged)",
+              "roles": [
+                "DPS",
+                "colina"
+              ],
+              "bestFor": [
+                "cobertura aérea",
+                "times iniciais"
+              ]
+            },
+            {
+              "name": "Ultiorra (Oblivion)",
+              "roles": [
+                "DPS",
+                "colina",
+                "atordoamento"
+              ],
+              "bestFor": [
+                "controle de ondas",
+                "Infinito inicial"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "Farm",
+          "label": "Unidades de economia",
+          "units": [
+            {
+              "name": "Bulmo",
+              "roles": [
+                "farm",
+                "economia"
+              ],
+              "bestFor": [
+                "renda inicial",
+                "rush de upgrades"
+              ]
+            },
+            {
+              "name": "Fastcart",
+              "roles": [
+                "farm",
+                "economia"
+              ],
+              "bestFor": [
+                "times Synchro",
+                "upgrades caros"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "utdzBestUnits": {
+      "title": "Melhores Unidades de Universal Tower Defense Z",
+      "intro": "As melhores unidades do UTDZ não são apenas unidades de rank alto; elas também precisam de um forte valor de função. Uma boa equipe geralmente mistura um ou dois carries de DPS principal, pelo menos um suporte ou buffer, cobertura aérea e uma opção de economia quando os upgrades são caros.",
+      "units": [
+        {
+          "name": "Joyful Captain",
+          "role": "DPS Principal / Suporte",
+          "bestFor": [
+            "Infinito",
+            "times de late-game",
+            "dano contra chefes"
+          ],
+          "whyUseIt": "Um carry de alto nível com forte valor de dano e potencial de suporte útil, tornando-o um investimento seguro a longo prazo.",
+          "buildFocus": [
+            "dano",
+            "dano crítico",
+            "tempo de recarga"
+          ]
+        },
+        {
+          "name": "King Sailor (Unrivaled)",
+          "role": "DPS em Área / Buff de Líder",
+          "bestFor": [
+            "slot de líder do time",
+            "Infinito",
+            "limpeza em área"
+          ],
+          "whyUseIt": "Traz dano em área massivo, auto-buffs, buffs de equipe e imunidade a atordoamento, o que o torna valioso em muitos modos difíceis.",
+          "buildFocus": [
+            "dano",
+            "tempo de recarga",
+            "valor de buff do time"
+          ]
+        },
+        {
+          "name": "The Strongest of Today",
+          "role": "Suporte de DPS / Debuffer",
+          "bestFor": [
+            "Raids",
+            "controle de boss",
+            "defesa de ondas altas"
+          ],
+          "whyUseIt": "Combina alto dano com debuffs, valor anti-hiperarmadura, pressão em todo o mapa e fortes ferramentas de controle.",
+          "buildFocus": [
+            "dano",
+            "dano crítico",
+            "tempo de atividade do debuff"
+          ]
+        },
+        {
+          "name": "Jinoo (Shadow Monarch)",
+          "role": "DPS escalonável",
+          "bestFor": [
+            "Infinito",
+            "partidas longas",
+            "escalonamento de late-game"
+          ],
+          "whyUseIt": "Tem melhor desempenho em modos mais longos, onde o dano de escalonamento tem tempo para se acumular.",
+          "buildFocus": [
+            "dano",
+            "escalonamento",
+            "resistência a ondas"
+          ]
+        },
+        {
+          "name": "Ancient Mage (Sage)",
+          "role": "DPS Flexível / Suporte",
+          "bestFor": [
+            "História",
+            "Raids",
+            "equipes flexíveis"
+          ],
+          "whyUseIt": "Uma unidade versátil que pode contribuir com dano de burst, debuffs, buffs de suporte e valor de dano ao longo do tempo.",
+          "buildFocus": [
+            "dano",
+            "crítico",
+            "utilidade"
+          ]
+        },
+        {
+          "name": "Triple Threat (Unrivaled)",
+          "role": "Boss Killer / DPS de Sangramento",
+          "bestFor": [
+            "lutas contra chefes",
+            "equipes do Universal Festival",
+            "DPS de late-game"
+          ],
+          "whyUseIt": "Forte contra chefes graças ao alto dano, valor de sangramento, utilidade de líder e forte escalonamento de endgame.",
+          "buildFocus": [
+            "dano ao longo do tempo",
+            "dano crítico",
+            "valor do slot de líder"
+          ]
+        },
+        {
+          "name": "Virtual Idol (Super Star)",
+          "role": "Suporte de Buffs",
+          "bestFor": [
+            "Infinito",
+            "equipes de suporte",
+            "buffs de alcance e dano"
+          ],
+          "whyUseIt": "Fortalece unidades próximas com dano ou alcance e torna-se especialmente útil após suas principais unidades de DPS já estarem posicionadas.",
+          "buildFocus": [
+            "força do buff",
+            "posicionamento",
+            "tempo de suporte"
+          ]
+        },
+        {
+          "name": "Bulmo",
+          "role": "Farm / Economia",
+          "bestFor": [
+            "renda inicial",
+            "aceleração de upgrades",
+            "equipes caras"
+          ],
+          "whyUseIt": "Ajuda a gerar recursos mais rápido para que carries caros e setups de Synchro possam alcançar upgrades importantes mais cedo.",
+          "buildFocus": [
+            "renda",
+            "posicionamento inicial",
+            "tempo de upgrade"
+          ]
+        }
+      ]
+    },
+    "utdzTraitsAndRerolls": {
+      "title": "Guia de Traits e Rerolls de Universal Tower Defense Z",
+      "intro": "Traits e stats são melhorias de poder a longo prazo em Universal Tower Defense Z. A abordagem mais segura é resgatar os códigos primeiro, montar uma equipe estável e depois dar reroll apenas em suas melhores unidades, em vez de gastar recursos em unidades temporárias iniciais.",
+      "faqs": [
+        {
+          "question": "Para que os Trait Rerolls devem ser usados em Universal Tower Defense Z?",
+          "answer": "Trait Rerolls são melhor aproveitados em unidades de raridade alta ou carries de longo prazo. Não gaste grandes estoques de reroll em unidades iniciais, a menos que a unidade ainda faça parte da sua equipe principal para conteúdos de Story, Raid, World Raid ou Eventos.",
+          "bullets": [
+            "Use-os depois de saber qual unidade permanecerá na sua equipe.",
+            "Priorize carries de dano, boss killers, unidades de suporte e unidades de evento raras.",
+            "Evite dar reroll em cada unidade nova imediatamente."
+          ]
+        },
+        {
+          "question": "Como funcionam os Stat Rerolls e Stat Locks em Universal Tower Defense Z?",
+          "answer": "Stat Rerolls ajudam a melhorar os atributos das unidades, enquanto Stat Locks são usados para proteger os atributos que você deseja manter ao dar reroll no restante. Use Stat Locks apenas quando a unidade já valer um grande investimento.",
+          "bullets": [
+            "Dê reroll nos stats após escolher uma unidade principal definitiva.",
+            "Bloqueie stats fortes antes de buscar um roll completo melhor.",
+            "Não gaste Stat Locks em unidades que você planeja substituir."
+          ]
+        },
+        {
+          "question": "Onde os recursos de reroll se conectam com os códigos de Universal Tower Defense Z?",
+          "answer": "Os códigos de UTDZ geralmente recompensam com recursos de upgrade, como Trait Rerolls, Stat Rerolls, Stat Locks, Relic Rerolls, Gems, Gold, Universal Gems e moedas de evento. Resgate os códigos antes de fazer upgrades importantes para planejar com base no seu total de recursos.",
+          "bullets": [
+            "Verifique as postagens oficiais de atualização no Roblox, Discord, X e YouTube após os patches.",
+            "Use as recompensas de códigos novos para melhorar suas unidades mais fortes primeiro.",
+            "Guarde alguns rerolls para as unidades de novas atualizações."
+          ]
+        },
+        {
+          "question": "Qual é a prioridade de reroll mais segura em Universal Tower Defense Z?",
+          "answer": "Primeiro monte uma equipe utilizável, depois melhore uma unidade de dano principal e, em seguida, invista em uma unidade de suporte ou focada em chefes. Distribua os rerolls apenas depois que sua equipe principal conseguir completar as fases de farm de forma consistente.",
+          "bullets": [
+            "Prioridade 1: unidade carry principal.",
+            "Prioridade 2: unidade de suporte, buff ou utilidade.",
+            "Prioridade 3: unidade específica de raid ou evento."
+          ]
+        }
+      ]
+    },
+    "utdzEvolutionAndEtherealize": {
+      "title": "Guia de Evolution e Etherealize de Universal Tower Defense Z",
+      "intro": "Universal Tower Defense Z utiliza várias camadas de progressão: invocar unidades, subi-las de nível, melhorar suas traits e stats, realizar o Etherealize e a Evolution para ganhar mais poder. O melhor caminho de upgrade é investir gradualmente em unidades que permaneçam úteis em Story, raids, eventos e conteúdos de estilo endless.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Escolha uma Unidade de Longo Prazo Primeiro",
+          "description": "Escolha uma unidade que você espera usar além das fases iniciais do Story antes de gastar materiais de upgrade raros.",
+          "tip": "Bons alvos são unidades de dano de alta raridade, boss killers, suportes fortes e unidades de evento com valor duradouro."
+        },
+        {
+          "step": 2,
+          "title": "Suba o Nível da Unidade Antes de Rerolls Pesados",
+          "description": "Use a progressão normal e o farm para subir o nível da unidade primeiro, depois decida se ela merece Trait Rerolls, Stat Rerolls ou Stat Locks.",
+          "tip": "Não busque rolls perfeitos em uma unidade que ainda está com nível baixo ou não foi testada."
+        },
+        {
+          "step": 3,
+          "title": "Use Etherealize em Unidades que Permanecem na sua Equipe Principal",
+          "description": "O Etherealizing é um grande passo de poder, então use Etherealization Shards em unidades que ajudem com waves mais difíceis, chefes e farm de late-game.",
+          "tip": "Guarde os shards para unidades que você continuará usando após a próxima sessão de summon."
+        },
+        {
+          "step": 4,
+          "title": "Evolua Após Confirmar a Função da Unidade",
+          "description": "A Evolution é melhor utilizada quando a unidade já tem uma função clara, como limpar waves, derrotar chefes, dar suporte a aliados ou farmar recursos.",
+          "tip": "Uma unidade com uma função clara oferece melhor valor do que uma unidade aleatória melhorada apenas porque os materiais estão disponíveis."
+        },
+        {
+          "step": 5,
+          "title": "Teste a Unidade Melhorada em Modos Mais Difíceis",
+          "description": "Após subir o nível, realizar o Etherealize ou a Evolution, teste a unidade em raids, eventos, Virtual Realm ou conteúdos de waves altas para confirmar que o upgrade ajudou sua equipe.",
+          "tip": "Se a unidade melhora a velocidade de limpeza ou o dano contra boss, ela é uma forte candidata para mais investimento em reroll."
+        }
+      ]
+    },
+    "utdzGameModes": {
+      "title": "Guia de Modos de Jogo de Universal Tower Defense Z",
+      "intro": "UTDZ é focado em invocar unidades e defender contra ondas de inimigos com amigos em diversos modos de jogo de aventura. O modo História é o ponto de partida mais seguro, enquanto modos mais difíceis são melhores para farmar, testar equipes melhoradas e ganhar recompensas de eventos.",
+      "modes": [
+        {
+          "mode": "Modo História",
+          "bestFor": "Progressão de novos jogadores",
+          "howItWorks": "Limpe fases normais, aprenda sobre as ondas de inimigos e desbloqueie mais partes do jogo passo a passo.",
+          "rewards": "Recompensas de progressão, crescimento de conta, Gemas, Ouro e acesso a melhorias.",
+          "priority": "Comece por aqui primeiro."
+        },
+        {
+          "mode": "Desafios",
+          "bestFor": "Testando a força da equipe",
+          "howItWorks": "Jogue fases com regras especiais, maior pressão dos inimigos ou requisitos de equipe mais rigorosos.",
+          "rewards": "Materiais de melhoria, moedas e recompensas específicas de desafios.",
+          "priority": "Jogue depois que sua equipe básica estiver estável."
+        },
+        {
+          "mode": "Virtual Realm",
+          "bestFor": "Farm e progressão repetível",
+          "howItWorks": "Use fases repetíveis para testar o desempenho das unidades e acumular recursos ao longo do tempo.",
+          "rewards": "Moedas, progresso de unidades e valor de farm.",
+          "priority": "Use quando precisar de um grinding constante."
+        },
+        {
+          "mode": "Raids",
+          "bestFor": "Conclusões em co-op e recompensas mais fortes",
+          "howItWorks": "Junte-se a outros jogadores para confrontos mais difíceis que recompensam equipes mais bem estruturadas.",
+          "rewards": "Drops de raid, fragmentos, recursos de reroll e materiais de melhoria de unidade.",
+          "priority": "Jogue quando suas unidades principais estiverem com nível alto."
+        },
+        {
+          "mode": "World Raid",
+          "bestFor": "Conteúdo de boss co-op em grande escala",
+          "howItWorks": "Participe de lutas em grupos maiores onde o dano no boss, funções na equipe e o posicionamento das unidades importam mais.",
+          "rewards": "Drops de boss, recompensas de evento, moedas e materiais de progressão.",
+          "priority": "Melhor para jogadores coordenados."
+        },
+        {
+          "mode": "Ultra Boss",
+          "bestFor": "Teste de boss de fim de jogo",
+          "howItWorks": "Lute em fases de boss de alta pressão que recompensam alto dano em alvo único, suporte e sobrevivência.",
+          "rewards": "Drops raros, materiais de melhoria e itens de progressão relacionados a bosses.",
+          "priority": "Guarde para equipes mais fortes."
+        },
+        {
+          "mode": "Modos de Evento",
+          "bestFor": "Recompensas de atualização por tempo limitado",
+          "howItWorks": "Jogue conteúdos específicos de patch vinculados a novas atualizações, moedas sazonais, novas unidades e drops de códigos.",
+          "rewards": "Moedas de evento, novas unidades, rerolls, Gemas, Ouro e recompensas exclusivas.",
+          "priority": "Priorize enquanto os eventos estiverem ativos."
+        }
+      ]
+    },
+    "utdzUpdate4": {
+      "title": "Guia da Atualização 4.0 de Universal Tower Defense Z",
+      "intro": "A Atualização 4.0 de Universal Tower Defense Z é apresentada como uma grande atualização para a experiência de tower defense no Roblox. Os jogadores devem usar esta seção para acompanhar o lançamento da atualização, destaques do trailer, novos conteúdos de evento, recursos de reroll e oportunidades de códigos relacionados ao patch.",
+      "cards": [
+        {
+          "title": "Atualização 4.0: UTDZ",
+          "category": "Destaque do Patch",
+          "description": "A página do jogo agora aparece sob Universal Tower Defense Z com o tema da atualização 4.0. A descrição oficial do Roblox destaca invocar unidades, lutar contra ondas de inimigos, modos de jogo co-op, subir de nível, Etherealizar e Evoluir unidades.",
+          "playerAction": "Abra a página do jogo no Roblox primeiro para confirmar o título ativo, servidores, itens da loja e o status da experiência ativa."
+        },
+        {
+          "title": "Trailer e Teaser Oficiais",
+          "category": "Imagens Oficiais",
+          "description": "O canal oficial de Universal Tower Defense no YouTube lista os vídeos de trailer e teaser da Atualização 4.0 de UTDZ para a nova versão. O trailer posiciona a atualização como um grande evento de verão com novo conteúdo temático.",
+          "playerAction": "Assista ao vídeo oficial mais recente antes de escrever resumos do patch ou prévias de unidades."
+        },
+        {
+          "title": "Foco no Novo Evento",
+          "category": "Conteúdo do Evento",
+          "description": "A Atualização 4.0 está ligada a novos conteúdos de evento e recompensas por tempo limitado. Os modos de evento são o melhor lugar para verificar novas moedas, recompensas especiais e unidades introduzidas durante o período do patch.",
+          "playerAction": "Priorize as fases de evento enquanto a atualização estiver ativa, depois gaste as recompensas em unidades de longo prazo."
+        },
+        {
+          "title": "Oportunidades de Códigos",
+          "category": "Códigos e Recompensas",
+          "description": "Grandes atualizações de UTDZ geralmente trazem novas recompensas de códigos, como Trait Rerolls, Stat Rerolls, Stat Locks, Relic Rerolls, Gems, Gold, Universal Gems e moedas de evento.",
+          "playerAction": "Verifique o Discord oficial, X, postagens da comunidade do Roblox e descrições do YouTube após cada patch ou hotfix."
+        },
+        {
+          "title": "Prioridade de Upgrade Após a 4.0",
+          "category": "Progressão",
+          "description": "Use as novas recompensas de atualização em unidades que ajudam nas conclusões do modo História, raids, lutas contra chefes e farm de eventos. Evite gastar todos os seus rerolls antes de testar as novas unidades e as mudanças de balanceamento da atualização.",
+          "playerAction": "Guarde parte do seu acúmulo de rerolls para as novas unidades da versão 4.0 e unidades de evento por tempo limitado."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre Universal Tower Defense Z",
+    "questions": [
+      {
+        "question": "O que é Universal Tower Defense Z?",
+        "answer": "Universal Tower Defense Z (UTDZ) é um jogo de tower defense de anime no Roblox onde você invoca unidades, as posiciona nos mapas, defende contra ondas de inimigos e melhora seu roster através dos sistemas de subir de nível, Etherealize e Evolve."
+      },
+      {
+        "question": "Onde posso jogar Universal Tower Defense Z?",
+        "answer": "Universal Tower Defense Z está disponível no Roblox. Você pode iniciá-lo diretamente da página oficial do jogo no Roblox e jogar no PC, Mac, celular ou qualquer dispositivo que suporte o Roblox."
+      },
+      {
+        "question": "Como resgato códigos do Universal Tower Defense Z?",
+        "answer": "Abra o Universal Tower Defense Z no Roblox, pressione o botão Codes no lado direito da tela, cole um código ativo e pressione Redeem para resgatar recompensas como Trait Rerolls, Gems e Universal Gems."
+      },
+      {
+        "question": "Quais são as melhores unidades no Universal Tower Defense Z?",
+        "answer": "As melhores unidades de Universal Tower Defense Z combinam alto dano com grande utilidade em suas funções. As principais escolhas incluem Joyful Captain, King Sailor (Unrivaled), The Strongest of Today e Jinoo (Shadow Monarch) para o Infinite, Raids e conteúdo late-game."
+      },
+      {
+        "question": "O Universal Tower Defense Z é grátis para jogar?",
+        "answer": "Sim. O Universal Tower Defense Z é grátis para jogar no Roblox, com invocações, moedas e recursos de upgrade opcionais no jogo que você também pode obter através de códigos, eventos e progressão normal."
+      },
+      {
+        "question": "Com que frequência o Universal Tower Defense Z recebe atualizações?",
+        "answer": "O Universal Tower Defense Z recebe grandes atualizações, como a Atualização 4.0, que adicionam novas unidades, conteúdo de evento, traits e códigos. Siga os canais oficiais do Discord, X e YouTube para acompanhar cada patch e novos códigos lançados."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para jogar Universal Tower Defense Z?",
+    "description": "Junte-se à comunidade de Universal Tower Defense Z no Discord para códigos, atualizações, tier lists e discussões!",
+    "joinCommunity": "Entrar no Discord",
+    "joinGame": "Jogar no Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Universal Tower Defense Z",
+    "description": "Seu hub de recursos completo para códigos, unidades, tier list, traits, evoluções e guias de atualização de Universal Tower Defense Z.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Jurídico",
+    "discord": "Discord",
+    "twitter": "X / Twitter",
+    "roblox": "Roblox",
+    "youtube": "YouTube",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Direitos Autorais",
+    "copyright": "© 2026 Universal Tower Defense Z Wiki. Não afiliado aos desenvolvedores de Universal Tower Defense Z.",
+    "disclaimer": "Website de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Universal Tower Defense Z",
+      "description": "Últimos códigos ativos de Universal Tower Defense Z para Trait Rerolls, Gemas e moedas de evento grátis. Atualizado com códigos de resgate ativos e instruções passo a passo.",
+      "metaTitle": "Códigos de Universal Tower Defense Z - Rerolls & Gemas Grátis",
+      "metaDescription": "Obtenha Trait Rerolls, Gemas e moedas de evento grátis com códigos ativos de Universal Tower Defense Z. Resgate códigos funcionais e fique atualizado sobre novos lançamentos após cada atualização.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O que são Códigos?",
+      "whatIsDescription": "Os códigos de Universal Tower Defense Z são códigos promocionais resgatáveis lançados pelos desenvolvedores através do Discord, X e do grupo oficial do Roblox. Inseri-los no menu de Códigos do jogo concede Trait Rerolls, Stat Locks, Gemas, Gemas Universais, tickets e moedas de evento por tempo limitado gratuitamente.",
+      "why": "Por que resgatar códigos?",
+      "whySteps": {
+        "step1Title": "Recursos de Upgrade Grátis",
+        "step1Description": "Os códigos fornecem Trait Rerolls, Stat Locks e Gemas sem gastar Robux, fortalecendo suas unidades mais fortes.",
+        "step2Title": "Mantenha-se Atualizado com as Atualizações",
+        "step2Description": "Novos códigos são lançados junto com grandes atualizações como a Update 4.0, eventos de verão e metas alcançadas, então resgatá-los mantém sua equipe competitiva.",
+        "step3Title": "Financie Unidades de Longo Prazo",
+        "step3Description": "As recompensas de códigos salvas permitem que você invista em carries S-Tier e unidades de evento em vez de gastar recursos com unidades iniciais."
+      },
+      "featured": "Destaques & Essenciais",
+      "all": "Todos os Códigos"
+    },
+    "guide": {
+      "title": "Guias de Universal Tower Defense Z",
+      "description": "Guias completos de Universal Tower Defense Z, desde o básico para iniciantes até montagem de equipes avançadas, tier lists e detonados de atualizações para jogadores de Roblox.",
+      "metaTitle": "Guias de Universal Tower Defense Z - Do Iniciante ao Avançado",
+      "metaDescription": "Domine o Universal Tower Defense Z com guias para iniciantes, montagem de equipes, tier lists, detonados de eventos e estratégias de atualização para todos os modos de jogo.",
+      "categoryLabel": "GUIAS DE JOGO",
+      "whatIs": "O que são Guias?",
+      "whatIsDescription": "Os guias de Universal Tower Defense Z cobrem todo o ciclo de jogabilidade: invocar unidades de anime, posicionar torres, defender ondas, fazer upgrades através de Etherealize e Evolve, e concluir os modos História, Raids e eventos. Eles variam de dicas para iniciantes no primeiro dia a montagem de equipes meta avançadas.",
+      "why": "Por que ler guias?",
+      "whySteps": {
+        "step1Title": "Aprenda o Ciclo Básico",
+        "step1Description": "Entenda a invocação, posicionamento, upgrades e prioridade de recursos para evitar erros comuns de iniciantes.",
+        "step2Title": "Monte Equipes Mais Fortes",
+        "step2Description": "Siga composições de equipe comprovadas e tier lists para completar os modos História, Raids e Infinito com eficiência.",
+        "step3Title": "Fique por dentro das Atualizações",
+        "step3Description": "Mantenha-se atualizado com o conteúdo da Update 4.0, novas unidades e guias de eventos conforme o meta evolui."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias"
+    },
+    "optimizer": {
+      "title": "Otimizador de Universal Tower Defense Z",
+      "description": "Ferramentas e calculadoras do otimizador de Universal Tower Defense Z para builds de unidades meta, loadouts e planejamento de dano em todos os modos de jogo.",
+      "metaTitle": "Otimizador de Universal Tower Defense Z - Calculadora de Unidades e Loadouts",
+      "metaDescription": "Planeje suas builds de Universal Tower Defense Z com ferramentas de otimização para unidades meta, loadouts e cálculo de dano nos modos História, Raids e Infinito.",
+      "categoryLabel": "FERRAMENTAS DO OTIMIZADOR",
+      "whatIs": "O que é o Otimizador?",
+      "whatIsDescription": "O otimizador de Universal Tower Defense Z ajuda você a planejar builds de unidades, loadouts e alocação de recursos. Ele abrange a seleção de unidades meta, caminhos de build, prioridades de traits e stats, e calculadoras de loadout para que você possa comparar opções antes de gastar rerolls e materiais de upgrade.",
+      "why": "Por que usar o otimizador?",
+      "whySteps": {
+        "step1Title": "Planeje Antes de Gastar",
+        "step1Description": "Compare builds de unidades e loadouts antes de gastar Trait Rerolls, Stat Locks e materiais de evolução.",
+        "step2Title": "Encontre a Build Meta",
+        "step2Description": "Identifique as combinações mais fortes de DPS, suporte e farm para cada modo de jogo e luta contra chefes.",
+        "step3Title": "Otimize o Uso de Recursos",
+        "step3Description": "Aloque Gems, Universal Gems e rerolls em unidades que permanecem relevantes no modo História, Raids e eventos."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todas as Ferramentas do Otimizador"
+    },
+    "etherealize": {
+      "title": "Etherealize em Universal Tower Defense Z",
+      "description": "Guia completo de Etherealize em Universal Tower Defense Z: como fazer o etherealize de unidades, farmar Etherealization Shards, encontrar o NPC e desbloquear formas Boundless.",
+      "metaTitle": "Guia de Etherealize de Universal Tower Defense Z - Shards e Boundless",
+      "metaDescription": "Aprenda como fazer o etherealize de unidades em Universal Tower Defense Z, farmar Etherealization Shards, encontrar o NPC e desbloquear formas Boundless para o poder de late-game.",
+      "categoryLabel": "ETHEREALIZE",
+      "whatIs": "O que é o Etherealize?",
+      "whatIsDescription": "O Etherealize é um sistema de upgrade importante em Universal Tower Defense Z que aumenta o poder de uma unidade além do nível e evolução normais. Ele requer Etherealization Shards e acesso ao NPC de Etherealization, e desbloqueia formas mais fortes, incluindo estados Boundless para unidades selecionadas.",
+      "why": "Por que fazer o etherealize de unidades?",
+      "whySteps": {
+        "step1Title": "Desbloqueie Grandes Saltos de Poder",
+        "step1Description": "O Etherealize aumenta o teto de dano e utilidade de uma unidade, tornando-a essencial para Raids, chefes e ondas altas no Infinito.",
+        "step2Title": "Invista em Unidades Duradouras",
+        "step2Description": "Shards são escassos, então faça o etherealize de unidades que permanecerão na sua equipe principal a longo prazo, em vez de iniciantes temporários.",
+        "step3Title": "Alcance Formas Boundless",
+        "step3Description": "Algumas unidades desbloqueiam formas Boundless através do etherealize, adicionando poder de escala de endgame para o conteúdo mais difícil."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Etherealize"
+    },
+    "zoro": {
+      "title": "Guia do Zoro em Universal Tower Defense Z",
+      "description": "Guia completo do Zoro em Universal Tower Defense Z: como obter o Zoro, evoluí-lo, escolher a melhor trait, coletar fragmentos e desbloquear o Zoro shiny.",
+      "metaTitle": "Guia do Zoro em Universal Tower Defense Z - Obter, Evoluir e Build",
+      "metaDescription": "Domine o Zoro em Universal Tower Defense Z: como obtê-lo, evoluir, escolher o melhor trait, coletar fragmentos e itens de evo, e desbloquear o Zoro shiny.",
+      "categoryLabel": "GUIA DO ZORO",
+      "whatIs": "O que é o Guia do Zoro?",
+      "whatIsDescription": "O guia do Zoro cobre tudo sobre a unidade Zoro em Universal Tower Defense Z: como obtê-lo através de quests, evoluí-lo com fragmentos e itens de evo, escolher o melhor trait, fazer a build de DPS e desbloquear a versão shiny para valor extra.",
+      "why": "Por que focar no Zoro?",
+      "whySteps": {
+        "step1Title": "Carry de DPS Forte",
+        "step1Description": "Zoro é uma unidade de dano de alto valor que se encaixa em times de Story, Raids e bosses quando construída corretamente.",
+        "step2Title": "Caminho de Upgrade Claro",
+        "step2Description": "Siga a linha de quests, o farm de fragmentos e a rota de itens de evo para evoluir o Zoro sem desperdiçar recursos.",
+        "step3Title": "Melhor Trait e Build",
+        "step3Description": "Escolha o trait e a relíquia certos para o Zoro para maximizar seu dano em todos os modos de jogo."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias do Zoro"
+    },
+    "boss": {
+      "title": "Guias de Boss de Universal Tower Defense Z",
+      "description": "Guias de boss de Universal Tower Defense Z cobrindo as lutas Zero Mortal Plan e DBZ Ultra Boss, incluindo localizações, estratégias e recompensas.",
+      "metaTitle": "Guias de Boss de Universal Tower Defense Z - Ultra Boss & Zero Mortal Plan",
+      "metaDescription": "Derrote os bosses de Universal Tower Defense Z com guias sobre o Zero Mortal Plan e DBZ Ultra Boss: localizações, estratégias de luta, composições de time e recompensas.",
+      "categoryLabel": "GUIAS DE BOSS",
+      "whatIs": "O que são Guias de Boss?",
+      "whatIsDescription": "Os guias de boss de Universal Tower Defense Z explicam como encontrar e derrotar encontros de boss de late-game como o Zero Mortal Plan e o DBZ Ultra Boss. Eles cobrem localizações de bosses, requisitos de desbloqueio, composições de time recomendadas e as recompensas que cada boss dropa.",
+      "why": "Por que lutar contra bosses?",
+      "whySteps": {
+        "step1Title": "Ganhe Drops Raros",
+        "step1Description": "Bosses dropam materiais de upgrade raros, fragmentos e itens de progressão indisponíveis em fases normais.",
+        "step2Title": "Teste seu Time Mais Forte",
+        "step2Description": "Lutas contra bosses exigem alto dano em alvo único, buffs de suporte e sobrevivência, tornando-as o verdadeiro teste para sua build.",
+        "step3Title": "Desbloqueie Conteúdo de Late-Game",
+        "step3Description": "Derrotar bosses como o Ultra Boss abre acesso a progressão avançada e recompensas exclusivas."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Boss"
+    },
+    "event": {
+      "title": "Eventos de Universal Tower Defense Z",
+      "description": "Guias de eventos de Universal Tower Defense Z para Pirate Blitz, Blitz Pass e atualizações de tempo limitado com moeda de evento, novas unidades e recompensas exclusivas.",
+      "metaTitle": "Eventos de Universal Tower Defense Z - Pirate Blitz & Blitz Pass",
+      "metaDescription": "Guias completos de eventos de Universal Tower Defense Z: Pirate Blitz, Blitz Pass, farm de moeda de evento, novas unidades e recompensas de atualização de tempo limitado.",
+      "categoryLabel": "EVENTOS",
+      "whatIs": "O que são Eventos?",
+      "whatIsDescription": "Os eventos de Universal Tower Defense Z são atualizações de tempo limitado ligadas a patches como o Update 4.0 e conteúdo sazonal. Eles introduzem moeda de evento, novas unidades, recompensas exclusivas e modos como Pirate Blitz e o Blitz Pass que expiram quando o evento termina.",
+      "why": "Por que jogar os eventos?",
+      "whySteps": {
+        "step1Title": "Garanta Recompensas Exclusivas",
+        "step1Description": "Eventos oferecem unidades, moedas e itens de tempo limitado que não podem ser obtidos após o encerramento do evento.",
+        "step2Title": "Farmar Moedas de Evento",
+        "step2Description": "Use o Pirate Blitz e o Blitz Pass para farmar moedas de evento para unidades e melhorias antes que o tempo acabe.",
+        "step3Title": "Fique à Frente do Meta",
+        "step3Description": "Novas unidades de evento e atualizações costumam mudar o meta, então participar mantém seu elenco competitivo."
+      },
+      "featured": "Em Destaque e Essenciais",
+      "all": "Todos os Eventos"
+    }
   }
 }

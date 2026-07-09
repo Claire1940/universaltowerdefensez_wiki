@@ -1,11 +1,1123 @@
 {
+  "seo": {
+    "home": {
+      "title": "Universal Tower Defense Z Wiki - コード、ユニット、ティアリスト",
+      "description": "Universal Tower Defense Z Wiki：Robloxプレイヤー向けのコード、ユニット、ティアリスト、特性、進化、レイド、アップデートガイド、初心者向けヒント。",
+      "keywords": "Universal Tower Defense Z, Roblox, コード, ユニット, ティアリスト, 特性, 進化, レイド",
+      "ogTitle": "Universal Tower Defense Z Wiki - コード、ユニット、ティアリスト",
+      "ogDescription": "Universal Tower Defense Z Wiki：Robloxプレイヤー向けのコード、ユニット、ティアリスト、特性、進化、レイド、アップデートガイド、初心者向けヒント。",
+      "twitterTitle": "Universal Tower Defense Z Wiki - コード、ユニット、ティアリスト",
+      "twitterDescription": "Universal Tower Defense Z Wiki：Robloxプレイヤー向けのコード、ユニット、ティアリスト、特性、アップデートガイド。"
+    }
+  },
   "nav": {
     "codes": "コード",
     "guide": "ガイド",
     "optimizer": "オプティマイザー",
-    "etherealize": "Etherealize",
+    "etherealize": "エーテライズ",
     "zoro": "ゾロ",
     "boss": "ボス",
     "event": "イベント"
+  },
+  "common": {
+    "home": "ホーム",
+    "more": "その他",
+    "playNow": "Robloxでプレイ",
+    "switchLanguage": "言語を切り替える",
+    "switchTheme": "テーマを切り替える",
+    "lightMode": "ライトモード",
+    "darkMode": "ダークモード",
+    "notFound": "ページが見つかりません",
+    "notFoundDescription": "お探しのページは存在しません。",
+    "backToHome": "ホームに戻る",
+    "relatedArticles": "関連記事",
+    "readMore": "続きを読む",
+    "articlesComingSoon": "記事は近日公開予定です"
+  },
+  "hero": {
+    "badge": "アニメ戦略タワーディフェンス",
+    "title": "Universal Tower Defense Z Wiki",
+    "description": "アニメ風のユニットを召喚し、敵のウェーブから防衛。友達とチームを組み、ロースターを進化させ、特性をリロールして、挑戦的なRobloxタワーディフェンスモードをクリアしよう。",
+    "getFreeCodesCTA": "無料コードを入手",
+    "playOnRobloxCTA": "Robloxでプレイ",
+    "stats": {
+      "stat1": {
+        "value": "280M+",
+        "label": "総訪問数"
+      },
+      "stat2": {
+        "value": "72K+",
+        "label": "オンラインプレイヤー数"
+      },
+      "stat3": {
+        "value": "201K+",
+        "label": "お気に入り数"
+      },
+      "stat4": {
+        "value": "12",
+        "label": "最大サーバー人数"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Universal Tower Defense Zのゲームプレイ",
+    "description": "このRobloxタワーディフェンスゲームで、アニメ風ユニットを召喚し、敵のウェーブから防衛し、友達とチームを組み、エーテライズと進化システムでロスターをアップグレードしましょう。"
+  },
+  "tools": {
+    "title": "Universal Tower Defense Z",
+    "titleHighlight": "リソース",
+    "subtitle": "Universal Tower Defense Zのコード、ユニット、ティアリスト、特性、進化、モード、アップデートに必要なすべてがここに",
+    "cards": [
+      {
+        "icon": "Copy",
+        "title": "Universal Tower Defense Zのコード",
+        "description": "無料のリロール、ジェム、イベント通貨が手に入る有効な引き換えコード"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Universal Tower Defense Z 初心者ガイド",
+        "description": "初日のループ：召喚、配置、防衛、アップグレード、そして進行"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Universal Tower Defense Z ユニットティアリスト",
+        "description": "すべてのゲームモードにおける役割別のメタユニットランキング"
+      },
+      {
+        "icon": "Star",
+        "title": "Universal Tower Defense Z 最強ユニット",
+        "description": "DPS、サポート、ファーム、ボス討伐のトップ育成目標"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Universal Tower Defense Zの特性とリロール",
+        "description": "リロールは初期ユニットではなく、使い続けるユニットに使いましょう"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Universal Tower Defense Z 進化ガイド",
+        "description": "長期的に活躍するキャリーユニットのレベル上げ、エーテライズ、進化"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Universal Tower Defense Zのゲームモード",
+        "description": "ストーリー、レイド、チャレンジ、バーチャルレルム、そしてイベント"
+      },
+      {
+        "icon": "Clock",
+        "title": "Universal Tower Defense Z アップデート4.0",
+        "description": "最新のパッチ内容、トレーラー、新規配布コード"
+      }
+    ]
+  },
+  "modules": {
+    "utdzCodes": {
+      "title": "Universal Tower Defense Zのコード",
+      "intro": "Universal Tower Defense Zのコードは、ゲーム内の「Codes（コード）」メニューで引き換えることができます。Robloxゲームを起動し、画面右側にある「Codes」ボタンを押し、有効なコードを貼り付けて「Redeem（引き換え）」を押すと報酬を受け取ることができます。",
+      "codes": [
+        {
+          "code": "SrryForWhoopsie!",
+          "status": "有効",
+          "rewards": [
+            "ルーラーチケット 1枚"
+          ],
+          "category": "アップデート4.0の報酬"
+        },
+        {
+          "code": "ReapersVsHollowDestroyers",
+          "status": "有効",
+          "rewards": [
+            "特性リロール 50回",
+            "10,000ジェム"
+          ],
+          "category": "アップデート4.0の報酬"
+        },
+        {
+          "code": "SpectacularSpider!",
+          "status": "有効",
+          "rewards": [
+            "50 トレイトリロール",
+            "100,000 ユニバーサルジェム シーズン1 パート1"
+          ],
+          "category": "アップデート4.0報酬"
+        },
+        {
+          "code": "TheGuyFromSmash!",
+          "status": "有効",
+          "rewards": [
+            "50 トレイトリロール",
+            "100,000 ユニバーサルジェム シーズン1 パート2"
+          ],
+          "category": "アップデート4.0報酬"
+        },
+        {
+          "code": "Summer2026!",
+          "status": "有効",
+          "rewards": [
+            "50 トレイトリロール",
+            "10,000 サマー通貨"
+          ],
+          "category": "サマーイベント報酬"
+        },
+        {
+          "code": "UTDPhase3!",
+          "status": "期限切れ",
+          "rewards": [
+            "グリムジョー",
+            "進化素材",
+            "150 トレイトリロール",
+            "100,000 ユニバーサルジェム パート1"
+          ],
+          "category": "最近期限切れになったコード"
+        },
+        {
+          "code": "UTDXRulerIncident!",
+          "status": "期限切れ",
+          "rewards": [
+            "2 ルーラーチケット",
+            "レベル30必要"
+          ],
+          "category": "最近期限切れになったコード"
+        },
+        {
+          "code": "UniversalTowerDefenseZ!",
+          "status": "期限切れ",
+          "rewards": [
+            "進化バージル",
+            "250 トレイトリロール",
+            "アルファ・デビルズ・ソード",
+            "ユニバーサル・フラグメント",
+            "オーシャン・フラグメント",
+            "スカイ・フラグメント",
+            "100,000 ユニバーサルジェム パート2"
+          ],
+          "category": "大型アップデートコード"
+        },
+        {
+          "code": "UniversalDelayDefense!",
+          "status": "期限切れ",
+          "rewards": [
+            "500 トレイトリロール",
+            "25,000 ジェム",
+            "ユニバーサルジェム",
+            "デビルハンターユニット",
+            "進化アイテム",
+            "50 フレイム＆ウェーブカプセル"
+          ],
+          "category": "遅延補填コード"
+        },
+        {
+          "code": "200KInterestedSouls!",
+          "status": "期限切れ",
+          "rewards": [
+            "200 特性リロール",
+            "20,000 ジェム",
+            "50,000 ユニバーサルジェム Part 2"
+          ],
+          "category": "マイルストーンコード"
+        }
+      ]
+    },
+    "utdzBeginnerGuide": {
+      "title": "Universal Tower Defense Z 初心者ガイド",
+      "intro": "Universal Tower Defense Zは、アニメ風のユニットを召喚してマップに配置し、敵のウェーブを防ぎながら、レベルアップ、Etherealize、進化（Evolve）システムを通じてユニットを強化するRobloxのタワーディフェンスゲームです。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "まずはコードを引き換えることから始めましょう",
+          "goal": "リソースを消費する前に、無料のリロール、ジェム、ユニバーサルジェム、チケット、イベント通貨を集めましょう。",
+          "actions": [
+            "RobloxでUniversal Tower Defense Zを開く",
+            "右側のメニューにある「Codes」ボタンを押す",
+            "有効なコードを貼り付けて、すべての報酬を受け取る"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "使える最初のチームを召喚する",
+          "goal": "難しいステージに挑む前に、基本的なロースターを構築しましょう。",
+          "actions": [
+            "ジェムとチケットをユニット召喚に使用する",
+            "少なくとも1体の強力な地上ユニットを確保する",
+            "飛行する敵のために、ヒルユニットまたはハイブリッドユニットを追加する",
+            "プレミアムリロールは、使い続ける予定のユニットのために取っておく"
+          ]
+        },
+        {
+          "step": 3,
+          "title": "長い通路をカバーできる場所にタワーを配置する",
+          "goal": "強力なマップ配置を利用して、各ユニットからより多くのダメージを引き出しましょう。",
+          "actions": [
+            "序盤のDPSを曲がり角や長い直線通路の近くに配置する",
+            "空中の敵を攻撃できる場所にヒルユニットやハイブリッドユニットを置く",
+            "多くの弱いユニットにアップグレードを分散させるのを避ける"
+          ]
+        },
+        {
+          "step": 4,
+          "title": "最初にキャリーユニットをアップグレードする",
+          "goal": "序盤のウェーブをより早くクリアし、リークを減らしましょう。",
+          "actions": [
+            "最強のアタッカーを選ぶ",
+            "すべてのスロットを埋める前に、そのユニットをアップグレードする",
+            "最初のダメージの核が安定してから、サポートユニットやファームユニットを使用する"
+          ]
+        },
+        {
+          "step": 5,
+          "title": "ストーリーモードを進める",
+          "goal": "より多くのコンテンツ、リソース、ユニットのアップグレードパスを解放しましょう。",
+          "actions": [
+            "ストーリーステージを順番にクリアする",
+            "ジェムや素材が必要なときはステージを再プレイする",
+            "チームが安定したら、チャレンジ、レイド、バーチャルレルムに移行する"
+          ]
+        },
+        {
+          "step": 6,
+          "title": "ユニットのレベルアップ、Etherealize、進化",
+          "goal": "強力なガチャユニットを長期的なキャリーユニットに育てましょう。",
+          "actions": [
+            "全てのユニットではなく、有用なユニットを優先してレベルアップしましょう",
+            "Etherealizeを使用してユニットのパワーを上げましょう",
+            "より強力な形態を解放できるユニットのために進化素材を集めましょう"
+          ]
+        }
+      ]
+    },
+    "utdzUnitTierList": {
+      "title": "Universal Tower Defense Z ユニットティアリスト",
+      "intro": "このティア表は、ストーリー、インフィニット、レイド、チャレンジ、バーチャルレルム、ボス戦、および後半のチーム編成で一般的に使用されるユニットに焦点を当てています。",
+      "tiers": [
+        {
+          "tier": "S+",
+          "label": "コアメタキャリー",
+          "units": [
+            {
+              "name": "Joyful Captain",
+              "roles": [
+                "DPS",
+                "サポート",
+                "地上"
+              ],
+              "bestFor": [
+                "インフィニット",
+                "後半",
+                "ボスダメージ"
+              ]
+            },
+            {
+              "name": "Jinoo (Shadow Monarch)",
+              "roles": [
+                "DPS",
+                "スケーリング"
+              ],
+              "bestFor": [
+                "インフィニット",
+                "ロングウェーブ",
+                "後半"
+              ]
+            },
+            {
+              "name": "The Strongest of Today",
+              "roles": [
+                "DPS",
+                "デバフサポート",
+                "地上"
+              ],
+              "bestFor": [
+                "レイド",
+                "ボス",
+                "高ウェーブコントロール"
+              ]
+            },
+            {
+              "name": "The Strongest in History",
+              "roles": [
+                "DPS",
+                "ボスキラー"
+              ],
+              "bestFor": [
+                "レイド",
+                "ボス戦",
+                "エンドゲーム"
+              ]
+            },
+            {
+              "name": "King Sailor (Unrivaled)",
+              "roles": [
+                "DPS",
+                "チームバフ",
+                "地上"
+              ],
+              "bestFor": [
+                "インフィニット",
+                "チームリーダー枠",
+                "AOE処理"
+              ]
+            },
+            {
+              "name": "Ancient Mage (Sage)",
+              "roles": [
+                "DPS",
+                "サポート",
+                "ユーティリティ"
+              ],
+              "bestFor": [
+                "ストーリー",
+                "レイド",
+                "フレックスチーム"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "S",
+          "label": "優秀なエンドゲームの選択肢",
+          "units": [
+            {
+              "name": "Gluttonous Warlord (Despair)",
+              "roles": [
+                "DPS",
+                "地上"
+              ],
+              "bestFor": [
+                "終盤",
+                "ボスダメージ"
+              ]
+            },
+            {
+              "name": "Triple Threat (Unrivaled)",
+              "roles": [
+                "DPS",
+                "出血",
+                "リーダーバフ"
+              ],
+              "bestFor": [
+                "ボス撃破",
+                "Universal Festivalチーム"
+              ]
+            },
+            {
+              "name": "Marine Hero (Grand Fist)",
+              "roles": [
+                "DPS",
+                "地上"
+              ],
+              "bestFor": [
+                "ストーリー",
+                "インフィニット",
+                "レイド"
+              ]
+            },
+            {
+              "name": "Alpha Devil (Omega)",
+              "roles": [
+                "DPS",
+                "スタン",
+                "イベントユニット"
+              ],
+              "bestFor": [
+                "ボス",
+                "イベントチーム",
+                "足止めダメージ"
+              ]
+            },
+            {
+              "name": "Phantom Captain (Carrier)",
+              "roles": [
+                "DPS",
+                "召喚ダメージ",
+                "AOE"
+              ],
+              "bestFor": [
+                "ウェーブクリア",
+                "継続ダメージ"
+              ]
+            },
+            {
+              "name": "模倣の術師 (呪いの愛)",
+              "roles": [
+                "DPS",
+                "シンクロ",
+                "地上"
+              ],
+              "bestFor": [
+                "シンクロクラッシュ",
+                "終盤DPS"
+              ]
+            },
+            {
+              "name": "愛の女神",
+              "roles": [
+                "サポート",
+                "バフ",
+                "エコノミー"
+              ],
+              "bestFor": [
+                "シングルキャリー編成",
+                "仮想領域"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "強力な代替候補",
+          "units": [
+            {
+              "name": "天才魔術師 (見習い)",
+              "roles": [
+                "サポート",
+                "バフ",
+                "足止め"
+              ],
+              "bestFor": [
+                "サポート編成",
+                "インフィニット"
+              ]
+            },
+            {
+              "name": "バーチャルアイドル (スーパースター)",
+              "roles": [
+                "サポート",
+                "バフ"
+              ],
+              "bestFor": [
+                "インフィニット",
+                "射程とダメージのバフ"
+              ]
+            },
+            {
+              "name": "狙撃王 (トラッパー)",
+              "roles": [
+                "DPS",
+                "高台"
+              ],
+              "bestFor": [
+                "対空性能",
+                "中盤の攻略"
+              ]
+            },
+            {
+              "name": "鴉の忍 (穢土転生)",
+              "roles": [
+                "DPS",
+                "デバフ",
+                "範囲攻撃"
+              ],
+              "bestFor": [
+                "レジェンドステージ",
+                "デバフ編成"
+              ]
+            },
+            {
+              "name": "サスケ (大戦)",
+              "roles": [
+                "DPS",
+                "サポート",
+                "デバフ"
+              ],
+              "bestFor": [
+                "レイド",
+                "ストーリー",
+                "フレックスチーム"
+              ]
+            },
+            {
+              "name": "Rule (ROOM)",
+              "roles": [
+                "DPS",
+                "ユーティリティ"
+              ],
+              "bestFor": [
+                "ストーリー",
+                "中盤用チーム"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "攻略に使える選択肢",
+          "units": [
+            {
+              "name": "The Drink (Survivor)",
+              "roles": [
+                "DPS",
+                "地上"
+              ],
+              "bestFor": [
+                "ストーリー",
+                "無限モード序盤"
+              ]
+            },
+            {
+              "name": "Psycho (100%)",
+              "roles": [
+                "DPS",
+                "ユーティリティ"
+              ],
+              "bestFor": [
+                "ストーリー",
+                "中盤"
+              ]
+            },
+            {
+              "name": "Koyote (Number One)",
+              "roles": [
+                "DPS"
+              ],
+              "bestFor": [
+                "進行",
+                "バックアップダメージ"
+              ]
+            },
+            {
+              "name": "Super Roku (Enraged)",
+              "roles": [
+                "DPS",
+                "高台"
+              ],
+              "bestFor": [
+                "対空",
+                "序盤用チーム"
+              ]
+            },
+            {
+              "name": "Ultiorra (Oblivion)",
+              "roles": [
+                "DPS",
+                "高台",
+                "スタン"
+              ],
+              "bestFor": [
+                "ウェーブコントロール",
+                "無限モード序盤"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "ファーム",
+          "label": "エコノミーユニット",
+          "units": [
+            {
+              "name": "Bulmo",
+              "roles": [
+                "ファーム",
+                "エコノミー"
+              ],
+              "bestFor": [
+                "序盤の収入",
+                "急ぎのアップグレード"
+              ]
+            },
+            {
+              "name": "ファストカート",
+              "roles": [
+                "ファーム",
+                "エコノミー"
+              ],
+              "bestFor": [
+                "シンクロチーム",
+                "高額なアップグレード"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "utdzBestUnits": {
+      "title": "Universal Tower Defense Z 最強ユニット",
+      "intro": "UTDZの最強ユニットは、単に高ランクであるだけでなく、強力な役割価値（ロールバリュー）も必要です。優れたチームは通常、1〜2体のメインDPSキャリー、少なくとも1体のサポートまたはバッファー、対空対策、そしてアップグレードが高額な場合のエコノミー要員を組み合わせて構成されます。",
+      "units": [
+        {
+          "name": "ジョイフルキャプテン",
+          "role": "メインDPS / サポート",
+          "bestFor": [
+            "インフィニット",
+            "終盤向けのチーム",
+            "ボスダメージ"
+          ],
+          "whyUseIt": "強力なダメージ性能と実用的なサポートの可能性を兼ね備えたトップクラスのキャリーであり、長期的に見て確実な投資となります。",
+          "buildFocus": [
+            "ダメージ",
+            "クリティカルダメージ",
+            "クールダウン"
+          ]
+        },
+        {
+          "name": "キングセイラー (無双)",
+          "role": "範囲DPS / リーダーバフ",
+          "bestFor": [
+            "チームリーダースロット",
+            "インフィニット",
+            "範囲処理"
+          ],
+          "whyUseIt": "莫大な範囲ダメージ、自己バフ、チームバフ、そしてスタン無効をもたらし、多くのハードモードで非常に価値のある存在となります。",
+          "buildFocus": [
+            "ダメージ",
+            "クールダウン",
+            "チームバフの価値"
+          ]
+        },
+        {
+          "name": "現代最強",
+          "role": "DPSサポート / デバッファー",
+          "bestFor": [
+            "レイド",
+            "ボスコントロール",
+            "高ウェーブ防衛"
+          ],
+          "whyUseIt": "高いダメージとデバフ、対ハイパーアーマー性能、マップ全体へのプレッシャー、そして強力なコントロールツールを兼ね備えています。",
+          "buildFocus": [
+            "ダメージ",
+            "クリティカルダメージ",
+            "デバフの維持時間"
+          ]
+        },
+        {
+          "name": "ジヌ (影の君主)",
+          "role": "スケーリングDPS",
+          "bestFor": [
+            "インフィニット",
+            "長期戦",
+            "終盤のスケーリング"
+          ],
+          "whyUseIt": "スケーリングダメージが蓄積する時間がある、より長期のモードで最も真価を発揮します。",
+          "buildFocus": [
+            "ダメージ",
+            "スケーリング",
+            "ウェーブ耐久"
+          ]
+        },
+        {
+          "name": "エンシェントメイジ (セージ)",
+          "role": "柔軟なDPS / サポート",
+          "bestFor": [
+            "ストーリー",
+            "レイド",
+            "フレックスチーム"
+          ],
+          "whyUseIt": "瞬間ダメージ、デバフ、サポートバフ、持続ダメージ（DoT）で貢献できる、汎用性の高いユニットです。",
+          "buildFocus": [
+            "ダメージ",
+            "クリティカル",
+            "ユーティリティ"
+          ]
+        },
+        {
+          "name": "トリプルスレット (アンライバルド)",
+          "role": "ボスキラー / 出血DPS",
+          "bestFor": [
+            "ボス戦",
+            "ユニバーサルフェスティバルチーム",
+            "終盤のDPS"
+          ],
+          "whyUseIt": "高いダメージ、出血効果、リーダーとしてのユーティリティ、そして強力な終盤のスケーリングにより、ボスに対して強力です。",
+          "buildFocus": [
+            "持続ダメージ",
+            "クリティカルダメージ",
+            "リーダースロットの価値"
+          ]
+        },
+        {
+          "name": "バーチャルアイドル (スーパースター)",
+          "role": "バフサポート",
+          "bestFor": [
+            "インフィニット",
+            "サポートチーム",
+            "射程およびダメージバフ"
+          ],
+          "whyUseIt": "周囲 of ユニットのダメージや射程を強化し、メインDPSユニットを配置した後に特に真価を発揮します。",
+          "buildFocus": [
+            "バフ強度",
+            "配置",
+            "サポートのタイミング"
+          ]
+        },
+        {
+          "name": "ブルモ",
+          "role": "ファーム / エコノミー",
+          "bestFor": [
+            "序盤の収入",
+            "アップグレードの早期強化",
+            "高コスト編成"
+          ],
+          "whyUseIt": "資源の生成を加速させ、高コストのキャリーやシンクロのセットアップが重要なアップグレードに早期に到達できるようにします。",
+          "buildFocus": [
+            "収入",
+            "序盤のplacement",
+            "upgradeのタイミング"
+          ]
+        }
+      ]
+    },
+    "utdzTraitsAndRerolls": {
+      "title": "Universal Tower Defense Z TraitsおよびRerollsガイド",
+      "intro": "TraitsとstatsはUniversal Tower Defense Zにおける長期的なパワーアップ要素です。最も安全な方法は、まずcodesを引き換え、安定したチームを構築してから、序盤の暫定的なunitsにリソースを費やすのではなく、最強のunitsのみをrerollすることです。",
+      "faqs": [
+        {
+          "question": "Universal Tower Defense ZにおいてTrait Rerollsは何に使用すべきですか？",
+          "answer": "Trait Rerollsは高レアリティまたは長期的なcarry unitsのために温存するのが最適です。そのunitがStory、Raid、World Raid、またはEventコンテンツのメインチームに残っていない限り、初期のunitsに大量のrerollを消費しないでください。",
+          "bullets": [
+            "どのunitがチームに残るか分かってから使用してください。",
+            "ダメージcarry、boss killer、support units、およびレアなevent unitsを優先してください。",
+            "すべての新しいunitをすぐにrerollするのは避けてください。"
+          ]
+        },
+        {
+          "question": "Universal Tower Defense ZにおいてStat RerollsとStat Locksはどのように機能しますか？",
+          "answer": "Stat Rerollsはunitのstatラインの向上に役立ち、Stat Locksは残りの項目をrerollする間、保持したいstatsを保護するために使用されます。Stat Locksは、そのunitがすでに多額の投資に値する場合にのみ使用してください。",
+          "bullets": [
+            "本格的なメインunitを選んだ後にstatsをrerollしてください。",
+            "より良いフルロールを狙う前に、強力なstatsをlockしてください。",
+            "入れ替え予定のunitsにStat Locksを無駄遣いしないでください。"
+          ]
+        },
+        {
+          "question": "rerollリソースはUniversal Tower Defense Zのcodesとどこで結びつきますか？",
+          "answer": "UTDZのcodesは、Trait Rerolls、Stat Rerolls、Stat Locks、Relic Rerolls、Gems、Gold、Universal Gems、event通貨などのアップグレードリソースを報酬として提供することがよくあります。リソースの総量に基づいて計画を立てられるよう、大幅なアップグレードを行う前にcodesを引き換えてください。",
+          "bullets": [
+            "パッチ適用後は、Roblox、Discord、X、YouTubeの公式update投稿を確認してください。",
+            "新しいcodeの報酬を使用して、まず最強のunitsを強化してください。",
+            "新しいupdateのunitsのために、いくつかのrerollsを温存しておいてください。"
+          ]
+        },
+        {
+          "question": "Universal Tower Defense Zにおいて最も安全なrerollの優先順位は何ですか？",
+          "answer": "まず実用的なチームを構築し、次にメインのダメージunitを1体アップグレードし、その後にsupportまたはboss特化のunitに投資してください。rerollsを分散させるのは、コアチームがfarmingステージを安定してクリアできるようになってからにしてください。",
+          "bullets": [
+            "優先順位1：メインcarry unit。",
+            "優先順位2：support、buff、またはutility unit。",
+            "優先順位3：raidまたはevent専用unit。"
+          ]
+        }
+      ]
+    },
+    "utdzEvolutionAndEtherealize": {
+      "title": "Universal Tower Defense Z EvolutionおよびEtherealizeガイド",
+      "intro": "Universal Tower Defense Zには、summonしたunitsのレベル上げ、traitsとstatsの向上、Etherealize、そしてさらなるパワーのためのEvolvingといった複数の成長要素があります。最適なアップグレードパスは、Story、raids、events、およびエンドレス形式のコンテンツを通じて有用であり続けるunitsに少しずつ投資することです。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "まず長期的に使用するunitを選択する",
+          "description": "希少なアップグレード素材を消費する前に、序盤のStoryステージ以降も使用する予定のunitを選んでください。",
+          "tip": "良いターゲットは、高レアリティのダメージunits、boss killer、強力なsupports、および持続的な価値のあるevent unitsです。"
+        },
+        {
+          "step": 2,
+          "title": "大幅なrerollの前にunitのレベルを上げる",
+          "description": "まず通常の進行やfarmingでunitを育成し、その後にTrait Rerolls、Stat Rerolls、またはStat Locksに値するかどうかを判断してください。",
+          "tip": "まだレベルが低い、あるいはテストされていないunitで完璧なロールを追い求めないでください。"
+        },
+        {
+          "step": 3,
+          "title": "メインチームに残るunitsをEtherealizeする",
+          "description": "Etherealizingは大きなパワーアップの段階であるため、より困難なwaves、bosses、および終盤のfarmingに役立つunitsにEtherealization Shardsを使用してください。",
+          "tip": "次のsummonセッションの後も使い続けるつもりのunitsのためにshardsを温存してください。"
+        },
+        {
+          "step": 4,
+          "title": "unitの役割を確認してからEvolveする",
+          "description": "Evolutionは、wavesのクリア、bossの撃破、味方のsupport、通貨のfarmingなど、unitに明確な役割がある場合に使用するのが最適です。",
+          "tip": "明確な役割を持つunitは、素材があるという理由だけでアップグレードされたランダムなunitよりも高い価値を提供します。"
+        },
+        {
+          "step": 5,
+          "title": "高難易度モードでアップグレードしたunitをテストする",
+          "description": "レベル上げ、Etherealizing、またはEvolvingの後は、raids、events、Virtual Realm、または高waveのコンテンツでunitをテストし、アップグレードがチームの助けになったか確認してください。",
+          "tip": "そのユニットがクリアスピードやボスへのダメージを向上させる場合、さらなるリロール投資の有力な候補となります。"
+        }
+      ]
+    },
+    "utdzGameModes": {
+      "title": "Universal Tower Defense Z ゲームモードガイド",
+      "intro": "UTDZは、ユニットを召喚し、冒険的なゲームモードを通じて仲間と共に敵のウェーブから防衛することを軸としています。ストーリーは最も安全な開始地点であり、より難易度の高いモードは、ファーミング、強化されたチームのテスト、イベント関連の報酬の獲得に適しています。",
+      "modes": [
+        {
+          "mode": "ストーリーモード",
+          "bestFor": "新規プレイヤーの進行",
+          "howItWorks": "通常ステージをクリアし、敵のウェーブを把握しながら、ゲームの要素を段階的にアンロックしましょう。",
+          "rewards": "進行報酬、アカウントの成長、ジェム、ゴールド、およびアップグレードへのアクセス。",
+          "priority": "まずはここから始めましょう。"
+        },
+        {
+          "mode": "チャレンジ",
+          "bestFor": "チームの強さのテスト",
+          "howItWorks": "特殊なルール、より強力な敵のプレッシャー、またはより厳しいチーム編成条件のあるステージをプレイします。",
+          "rewards": "アップグレード素材、通貨、およびチャレンジ限定の報酬。",
+          "priority": "基本的なチームが安定してからプレイしましょう。"
+        },
+        {
+          "mode": "Virtual Realm",
+          "bestFor": "ファーミングと繰り返し可能な進行",
+          "howItWorks": "繰り返しプレイ可能なステージを利用して、ユニットの性能をテストし、時間をかけてリソースを蓄積しましょう。",
+          "rewards": "通貨、ユニットの進行、およびファーミングの価値。",
+          "priority": "着実な周回（グラインド）が必要な時に利用しましょう。"
+        },
+        {
+          "mode": "レイド",
+          "bestFor": "協力プレイでのクリアとより強力な報酬",
+          "howItWorks": "他のプレイヤーとチームを組み、より高度に構築されたチームが報われる高難易度のエンカウントに挑みましょう。",
+          "rewards": "レイドドロップ、フラグメント、リロールリソース、およびユニットのアップグレード素材。",
+          "priority": "メインユニットのレベルが上がったらプレイしましょう。"
+        },
+        {
+          "mode": "ワールドレイド",
+          "bestFor": "大規模な協力型ボスコンテンツ",
+          "howItWorks": "ボスへのダメージ、チームの役割、ユニットの配置がより重要となる、大人数でのグループ戦に参加しましょう。",
+          "rewards": "ボスドロップ、イベント形式の報酬、通貨、および進行素材。",
+          "priority": "連携のとれたプレイヤーに最適です。"
+        },
+        {
+          "mode": "ウルトラボス",
+          "bestFor": "終盤（レイトゲーム）のボステスト",
+          "howItWorks": "強力な単体ダメージ、サポート、生存能力が求められる、高プレッシャーなボスステージで戦いましょう。",
+          "rewards": "レアドロップ、アップグレード素材、およびボス関連の進行アイテム。",
+          "priority": "より強力なチームができるまで取っておきましょう。"
+        },
+        {
+          "mode": "イベントモード",
+          "bestFor": "期間限定のアップデート報酬",
+          "howItWorks": "新しいアップデート、シーズン通貨、新ユニット、およびコード配布に関連したパッチ固有のコンテンツをプレイしましょう。",
+          "rewards": "イベント通貨、新ユニット、リロール、ジェム、ゴールド、および限定報酬。",
+          "priority": "イベント開催中は優先的にプレイしましょう。"
+        }
+      ]
+    },
+    "utdzUpdate4": {
+      "title": "Universal Tower Defense Z アップデート 4.0 ガイド",
+      "intro": "Universal Tower Defense Z アップデート 4.0 は、Robloxのタワーディフェンス体験における大型アップデートとして提供されます。プレイヤーはこのセクションを活用して、アップデートの開始、トレーラーの見どころ、新しいイベントコンテンツ、リロールリソース、およびパッチ関連のコード獲得の機会を確認してください。",
+      "cards": [
+        {
+          "title": "アップデート 4.0: UTDZ",
+          "category": "パッチのハイライト",
+          "description": "ゲームページは現在、アップデート 4.0 のテーマで Universal Tower Defense Z として表示されています。公式の Roblox の説明では、ユニットの召喚、敵のウェーブとの戦闘、協力ゲームモード、レベリング、Etherealizing、および Evolving ユニットが強調されています。",
+          "playerAction": "まず Roblox のゲームページを開き、現在のタイトル、サーバー、ストアアイテム、およびアクティブなエクスペリエンスの状態を確認してください。"
+        },
+        {
+          "title": "公式トレーラーおよびティーザー",
+          "category": "公式映像",
+          "description": "公式の Universal Tower Defense YouTube チャンネルには、新バージョンの Update 4.0 UTDZ トレーラーとティーザービデオが掲載されています。トレーラーでは、このアップデートを新しいテーマコンテンツを含む主要なサマーイベントとして位置づけています。",
+          "playerAction": "パッチの概要やユニットのプレビューを書く前に、最新の公式ビデオを視聴してください。"
+        },
+        {
+          "title": "新イベントの注目ポイント",
+          "category": "イベントコンテンツ",
+          "description": "アップデート 4.0 は、新しいイベントコンテンツや期間限定の報酬と連動しています。イベントモードは、パッチ期間中に導入された新しい通貨、特別な報酬、およびユニットを確認するのに最適な場所です。",
+          "playerAction": "アップデートが有効な間はイベントステージを優先し、その後、報酬を長期的に使用するユニットに使いましょう。"
+        },
+        {
+          "title": "コードのチャンス",
+          "category": "コードと報酬",
+          "description": "UTDZ の主要なアップデートでは、通常、Trait Rerolls、Stat Rerolls、Stat Locks、Relic Rerolls、Gems、Gold、Universal Gems、およびイベント通貨などの新しいコード報酬が提供されます。",
+          "playerAction": "各パッチやホットフィックスの後に、公式の Discord、X、Roblox コミュニティの投稿、および YouTube の説明を確認してください。"
+        },
+        {
+          "title": "4.0 後のアップグレード優先順位",
+          "category": "プログレッション",
+          "description": "新しいアップデートの報酬は、ストーリーのクリア、レイド、ボス戦、イベント周回に役立つユニットに使用してください。新しいユニットやアップデートのバランス調整をテストする前に、すべての reroll を使い切らないように注意してください。",
+          "playerAction": "reroll の一部を、新しい 4.0 ユニットや期間限定のイベントユニットのために取っておきましょう。"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "よくある",
+    "titleHighlight": "質問",
+    "subtitle": "Universal Tower Defense Z について知っておくべきすべてのこと",
+    "questions": [
+      {
+        "question": "Universal Tower Defense Z とは何ですか？",
+        "answer": "Universal Tower Defense Z (UTDZ) は、ユニットを召喚してマップに配置し、敵のウェーブを防御し、レベリング、Etherealize、Evolve システムを通じてロースターをアップグレードするアニメスタイルの Roblox タワーディフェンスゲームです。"
+      },
+      {
+        "question": "Universal Tower Defense Z はどこでプレイできますか？",
+        "answer": "Universal Tower Defense Z は Roblox で利用可能です。公式の Roblox ゲームページから直接起動でき、PC、Mac、モバイル、または Roblox をサポートするあらゆるデバイスでプレイできます。"
+      },
+      {
+        "question": "Universal Tower Defense Z のコードを引き換えるにはどうすればよいですか？",
+        "answer": "Roblox で Universal Tower Defense Z を開き、画面右側の Codes ボタンを押し、有効なコードを貼り付けて Redeem を押すと、Trait Rerolls、Gems、Universal Gems などの報酬を受け取れます。"
+      },
+      {
+        "question": "Universal Tower Defense Z で最強のユニットは何ですか？",
+        "answer": "Universal Tower Defense Z の最強ユニットは、高いダメージと強力な役割の価値を兼ね備えています。Infinite、Raids、および後半のコンテンツには、Joyful Captain、King Sailor (Unrivaled)、The Strongest of Today、Jinoo (Shadow Monarch) などが最適です。"
+      },
+      {
+        "question": "Universal Tower Defense Z は無料でプレイできますか？",
+        "answer": "はい。Universal Tower Defense Z は Roblox で無料でプレイでき、ゲーム内の召喚、通貨、アップグレードリソースはオプションですが、コード、イベント、通常の進行を通じても獲得できます。"
+      },
+      {
+        "question": "Universal Tower Defense Z はどのくらいの頻度でアップデートされますか？",
+        "answer": "Universal Tower Defense Z は、新しいユニット、イベントコンテンツ、traits、コードを追加するアップデート 4.0 のような大規模なアップデートを定期的に行っています。公式の Discord、X、YouTube チャンネルをフォローして、各パッチや新しいコードのリリースを確認してください。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Universal Tower Defense Z をプレイする準備はできましたか？",
+    "description": "Discord の Universal Tower Defense Z コミュニティに参加して、コード、アップデート、ティアリスト、ディスカッションをチェックしましょう！",
+    "joinCommunity": "Discord に参加する",
+    "joinGame": "Roblox でプレイする"
+  },
+  "footer": {
+    "title": "Universal Tower Defense Z Wiki",
+    "description": "Universal Tower Defense Zのコード、ユニット、ティアリスト、トレイト、進化、アップデートガイドのすべてが揃う総合リソースハブ。",
+    "resources": "リソース",
+    "community": "コミュニティ",
+    "legal": "法的情報",
+    "discord": "Discord",
+    "twitter": "X / Twitter",
+    "roblox": "Roblox",
+    "youtube": "YouTube",
+    "about": "このサイトについて",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "copyrightNotice": "著作権",
+    "copyright": "© 2026 Universal Tower Defense Z Wiki. Universal Tower Defense Zの開発者とは提携していません。",
+    "disclaimer": "非公式のファン作成リソースウェブサイト。"
+  },
+  "pages": {
+    "codes": {
+      "title": "Universal Tower Defense Z コード",
+      "description": "無料のトレイトリロール、ジェム、イベント通貨が手に入る、最新の有効なUniversal Tower Defense Zコードです。有効な引き換えコードと、ステップバイステップの引き換え手順を更新しています。",
+      "metaTitle": "Universal Tower Defense Z コード - 無料リロール＆ジェム",
+      "metaDescription": "有効なUniversal Tower Defense Zコードで、無料のトレイトリロール、ジェム、イベント通貨を手に入れましょう。有効なコードを引き換えて、アップデートごとの新しいコード情報を常にチェックしましょう。",
+      "categoryLabel": "コード引き換え",
+      "whatIs": "コードとは？",
+      "whatIsDescription": "Universal Tower Defense Zのコードは、開発者がDiscord、X、公式Robloxグループを通じて配布する引き換え可能なプロモーションコードです。ゲーム内のコードメニューに入力することで、無料のトレイトリロール、スタットロック、ジェム、ユニバーサルジェム、チケット、期間限定のイベント通貨を獲得できます。",
+      "why": "なぜコードを引き換えるのか？",
+      "whySteps": {
+        "step1Title": "無料のアップグレードリソース",
+        "step1Description": "コードを使用すると、Robuxを消費することなくトレイトリロール、スタットロック、ジェムを獲得でき、最強のユニットをパワーアップさせることができます。",
+        "step2Title": "最新のアップデートに対応",
+        "step2Description": "アップデート4.0やサマーイベント、マイルストーンなどの大型アップデートに合わせて新しいコードが配布されるため、コードを引き換えることでロースターの競争力を維持できます。",
+        "step3Title": "長期的に使えるユニットへの投資",
+        "step3Description": "コードの報酬を貯めておくことで、初期ユニットにリソースを浪費する代わりに、Sティアのキャリーユニットやイベントユニットに投資することができます。"
+      },
+      "featured": "注目のコンテンツ＆必須情報",
+      "all": "すべてのコード"
+    },
+    "guide": {
+      "title": "Universal Tower Defense Z ガイド",
+      "description": "Robloxプレイヤー向けの、初心者向けの基本から高度なチーム編成、ティアリスト、アップデート攻略までを網羅したUniversal Tower Defense Zの完全ガイド。",
+      "metaTitle": "Universal Tower Defense Z ガイド - 初心者から上級者まで",
+      "metaDescription": "初心者ガイド、チーム編成、ティアリスト、イベント攻略、そして各ゲームモードのアップデート戦略で、Universal Tower Defense Zを極めましょう。",
+      "categoryLabel": "ゲームガイド",
+      "whatIs": "ガイドとは？",
+      "whatIsDescription": "Universal Tower Defense Zのガイドでは、アニメユニットの召喚、タワーの配置、ウェーブの防衛、エーテライズや進化によるアップグレード、そしてストーリー、レイド、イベントモードのクリアなど、ゲームプレイの一連の流れを網羅しています。初日の初心者向けヒントから、高度なメタチーム編成まで幅広くカバーしています。",
+      "why": "なぜガイドを読むのか？",
+      "whySteps": {
+        "step1Title": "基本的なゲームの流れを学ぶ",
+        "step1Description": "召喚、配置、アップグレード、リソースの優先順位を理解し、初心者が陥りがちなミスを回避しましょう。",
+        "step2Title": "より強いチームを編成する",
+        "step2Description": "実績のあるチーム編成やティアリストを参考に、ストーリー、レイド、インフィニットモードを効率的にクリアしましょう。",
+        "step3Title": "最新アップデート情報をチェック",
+        "step3Description": "環境の変化に合わせて、アップデート4.0のコンテンツ、新ユニット、イベントガイドなどの最新情報を常に把握しましょう。"
+      },
+      "featured": "特集＆必須ガイド",
+      "all": "すべてのガイド"
+    },
+    "optimizer": {
+      "title": "Universal Tower Defense Z オプティマイザー",
+      "description": "すべてのゲームモードにおけるメタユニットのビルド、ロードアウト、ダメージ計算のためのUniversal Tower Defense Zオプティマイザーツールと計算機。",
+      "metaTitle": "Universal Tower Defense Z オプティマイザー - ユニット＆ロードアウト計算機",
+      "metaDescription": "ストーリー、レイド、インフィニットモードにおけるメタユニット、ロードアウト、ダメージ計算のオプティマイザーツールを使用して、Universal Tower Defense Zのビルドを計画しましょう。",
+      "categoryLabel": "オプティマイザーツール",
+      "whatIs": "オプティマイザーとは？",
+      "whatIsDescription": "Universal Tower Defense Zオプティマイザーは、ユニットのビルド、ロードアウト、リソース配分の計画に役立ちます。メタユニットの選択、ビルドパス、特性とステータスの優先順位、ロードアウト計算機をカバーしており、リロールや強化素材を消費する前にオプションを比較できます。",
+      "why": "なぜオプティマイザーを使うのか？",
+      "whySteps": {
+        "step1Title": "消費する前に計画を立てる",
+        "step1Description": "特性リロール、ステータスロック、進化素材を使用する前に、ユニットのビルドやロードアウトを比較しましょう。",
+        "step2Title": "メタビルドを見つける",
+        "step2Description": "各ゲームモードやボス戦における最強のDPS、サポート、ファームの組み合わせを特定しましょう。",
+        "step3Title": "リソース使用の最適化",
+        "step3Description": "ストーリー、レイド、イベントを通じて活躍し続けるユニットに、ジェム、ユニバーサルジェム、リロールを配分しましょう。"
+      },
+      "featured": "特集＆必須ガイド",
+      "all": "すべてのオプティマイザーツール"
+    },
+    "etherealize": {
+      "title": "Universal Tower Defense Z エーテル化",
+      "description": "Universal Tower Defense Z エーテル化完全ガイド：ユニットのエーテル化方法、エーテル化シャードの集め方、NPCの場所、バウンドレスフォームの解放方法。",
+      "metaTitle": "Universal Tower Defense Z エーテル化ガイド - シャード＆バウンドレス",
+      "metaDescription": "Universal Tower Defense Zでユニットをエーテル化する方法、エーテル化シャードの集め方、NPCの場所、そしてゲーム終盤の戦力となるバウンドレスフォームを解放する方法を学びましょう。",
+      "categoryLabel": "エーテル化",
+      "whatIs": "エーテル化とは？",
+      "whatIsDescription": "エーテル化は、通常のレベルアップや進化を超えてユニットのパワーを強化する、Universal Tower Defense Zの主要な育成システムです。エーテル化シャードとエーテル化NPCへのアクセスが必要で、一部のユニットではバウンドレス状態を含むより強力な形態を解放できます。",
+      "why": "なぜユニットをエーテル化するのか？",
+      "whySteps": {
+        "step1Title": "大幅なパワーアップを解放",
+        "step1Description": "エーテル化はユニットのダメージとユーティリティの上限を引き上げるため、レイド、ボス戦、高ウェーブのインフィニットモードにおいて不可欠です。",
+        "step2Title": "主力ユニットに投資する",
+        "step2Description": "シャードは希少なため、一時的な初期ユニットではなく、長期的にメインチームに残るユニットをエーテル化しましょう。",
+        "step3Title": "バウンドレスフォームへ到達",
+        "step3Description": "一部のユニットはエーテル化によってバウンドレスフォームを解放し、最難関コンテンツに対応するエンドゲーム級のパワーを獲得します。"
+      },
+      "featured": "特集＆必須ガイド",
+      "all": "すべてのエーテル化ガイド"
+    },
+    "zoro": {
+      "title": "Universal Tower Defense Z ゾロガイド",
+      "description": "Universal Tower Defense Z ゾロ完全ガイド：ゾロの入手方法、進化方法、最適な特性の選び方、フラグメントの集め方、そしてシャイニーゾロの解放方法。",
+      "metaTitle": "Universal Tower Defense Z Zoro ガイド - 入手、進化、ビルド",
+      "metaDescription": "Universal Tower Defense ZでZoroを極める：入手方法、進化、最適なtraitの選択、fragmentsとevo itemsの集め方、そしてshiny Zoroの解放方法。",
+      "categoryLabel": "Zoro ガイド",
+      "whatIs": "Zoro ガイドとは？",
+      "whatIsDescription": "Zoro ガイドでは、Universal Tower Defense ZにおけるZoroユニットのすべてを解説しています：クエストによる入手方法、fragmentsやevo itemsを使用した進化、最適なtraitの選択、DPS向けのビルド、そしてさらなる価値をもたらすshinyバージョンの解放方法について紹介します。",
+      "why": "なぜZoroに注目するのか？",
+      "whySteps": {
+        "step1Title": "強力なDPSキャリー",
+        "step1Description": "Zoroは、正しくビルドすることでStory、Raids、そしてボス戦のチームで活躍する価値の高いアタッカー（ダメージユニット）です。",
+        "step2Title": "明確な育成ルート",
+        "step2Description": "クエストライン、fragment集め、およびevo itemのルートに従って、素材を無駄にすることなくZoroを進化させましょう。",
+        "step3Title": "最適なtraitとビルド",
+        "step3Description": "さまざまなゲームモードでZoroの与ダメージを最大化するために、適切なtraitとrelicを選択しましょう。"
+      },
+      "featured": "おすすめ＆必須情報",
+      "all": "すべてのZoroガイド"
+    },
+    "boss": {
+      "title": "Universal Tower Defense Z ボスガイド",
+      "description": "Zero Mortal PlanやDBZ Ultra Boss戦の出現場所、攻略法、報酬などを網羅したUniversal Tower Defense Zのボスガイド。",
+      "metaTitle": "Universal Tower Defense Z ボスガイド - Ultra Boss ＆ Zero Mortal Plan",
+      "metaDescription": "Zero Mortal PlanやDBZ Ultra Bossに関するガイドでUniversal Tower Defense Zのボスを撃破しましょう：出現場所、戦闘攻略、チーム編成、および報酬を紹介。",
+      "categoryLabel": "ボスガイド",
+      "whatIs": "ボスガイドとは？",
+      "whatIsDescription": "Universal Tower Defense Zのボスガイドでは、Zero Mortal PlanやDBZ Ultra Bossといったゲーム終盤のボス戦の出現場所や倒し方を解説しています。ボスの出現場所、解放条件、おすすめのチーム編成、および各ボスがドロップする報酬をカバーしています。",
+      "why": "なぜボスと戦うのか？",
+      "whySteps": {
+        "step1Title": "レアドロップの獲得",
+        "step1Description": "ボスは、通常のステージでは手に入らない貴重な育成素材、fragments、進行用アイテムをドロップします。",
+        "step2Title": "最強チームの試練",
+        "step2Description": "ボス戦では、高い単体ダメージ、サポートバフ、および生存力が求められるため、プレイヤーのビルドの真価が試されます。",
+        "step3Title": "エンドコンテンツの解放",
+        "step3Description": "Ultra Bossなどのボスをクリアすることで、さらなる育成要素や限定報酬へのアクセスが解放されます。"
+      },
+      "featured": "おすすめ＆必須情報",
+      "all": "すべてのボスガイド"
+    },
+    "event": {
+      "title": "Universal Tower Defense Z イベント",
+      "description": "Pirate Blitz、Blitz Pass、およびイベント通貨、新ユニット、限定報酬が登場する期間限定アップデートに関するUniversal Tower Defense Zのイベントガイド。",
+      "metaTitle": "Universal Tower Defense Z イベント - Pirate Blitz ＆ Blitz Pass",
+      "metaDescription": "Universal Tower Defense Zの完全イベントガイド：Pirate Blitz、Blitz Pass、イベント通貨の効率的な集め方、新ユニット、および期間限定のアップデート報酬。",
+      "categoryLabel": "イベント",
+      "whatIs": "イベントとは？",
+      "whatIsDescription": "Universal Tower Defense Zのイベントは、Update 4.0などのパッチやシーズンコンテンツに関連した期間限定のアップデートです。イベント通貨、新ユニット、限定報酬、およびイベント終了時にプレイできなくなるPirate BlitzやBlitz Passなどのモードが導入されます。",
+      "why": "なぜイベントをプレイするのか？",
+      "whySteps": {
+        "step1Title": "限定報酬の獲得",
+        "step1Description": "イベントでは、イベント終了後には入手できなくなる期間限定のユニット、通貨、アイテムを手に入れることができます。",
+        "step2Title": "イベント通貨を稼ぐ",
+        "step2Description": "タイマーが終了する前に、Pirate BlitzとBlitz Passを使用してユニットやアップグレード用のイベント通貨を稼ぎましょう。",
+        "step3Title": "メタの先を行く",
+        "step3Description": "新しいイベントユニットやアップデートは頻繁にメタを変化させるため、参加することでロスターの競争力を維持できます。"
+      },
+      "featured": "注目＆必須",
+      "all": "すべてのイベント"
+    }
   }
 }
