@@ -1,3 +1,12 @@
+import {
+	Ticket,
+	Compass,
+	Calculator,
+	Gem,
+	Swords,
+	Skull,
+	PartyPopper,
+} from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 
 export interface NavigationItem {
@@ -7,7 +16,15 @@ export interface NavigationItem {
 	isContentType: boolean // 是否对应 content/ 目录
 }
 
-export const NAVIGATION_CONFIG: NavigationItem[] = []
+export const NAVIGATION_CONFIG: NavigationItem[] = [
+	{ key: 'codes', path: '/codes', icon: Ticket, isContentType: true },
+	{ key: 'guide', path: '/guide', icon: Compass, isContentType: true },
+	{ key: 'optimizer', path: '/optimizer', icon: Calculator, isContentType: true },
+	{ key: 'etherealize', path: '/etherealize', icon: Gem, isContentType: true },
+	{ key: 'zoro', path: '/zoro', icon: Swords, isContentType: true },
+	{ key: 'boss', path: '/boss', icon: Skull, isContentType: true },
+	{ key: 'event', path: '/event', icon: PartyPopper, isContentType: true },
+]
 
 // 从配置派生内容类型列表（用于路由和内容加载）
 export const CONTENT_TYPES = NAVIGATION_CONFIG.filter((item) => item.isContentType).map(

@@ -7,28 +7,26 @@ export const dynamic = 'force-static'
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.universaltowerdefensez.wiki'
 
-// 内容类型优先级配置
+// 内容类型优先级配置（与 navigation.ts 的 NAVIGATION_CONFIG 分类一一对应）
 const contentTypePriority: Record<string, number> = {
-	'guides': 0.9,
-	'crafting': 0.9,
-	'biomes': 0.8,
-	'creatures': 0.8,
-	'items': 0.8,
-	'achievements': 0.7,
-	'lore': 0.7,
-	'support': 0.6,
+	'codes': 0.9,
+	'guide': 0.9,
+	'optimizer': 0.8,
+	'etherealize': 0.8,
+	'zoro': 0.8,
+	'boss': 0.7,
+	'event': 0.7,
 }
 
 // 内容更新频率配置
 const contentTypeChangeFrequency: Record<string, 'daily' | 'weekly' | 'monthly'> = {
-	'guides': 'weekly',
-	'crafting': 'weekly',
-	'biomes': 'weekly',
-	'creatures': 'weekly',
-	'items': 'weekly',
-	'achievements': 'monthly',
-	'lore': 'monthly',
-	'support': 'monthly',
+	'codes': 'daily',
+	'guide': 'weekly',
+	'optimizer': 'weekly',
+	'etherealize': 'weekly',
+	'zoro': 'weekly',
+	'boss': 'weekly',
+	'event': 'weekly',
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

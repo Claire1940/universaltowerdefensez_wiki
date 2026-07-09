@@ -1,0 +1,156 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Universal Tower Defense Z 最強チーム：メタ編成とセットアップガイド",
+  description: "Universal Tower Defense Zで最強チームを編成しましょう。2026年最新のメタチーム編成、最強DPSキャリー、必須サポート、詳細なセットアップ手順ガイドを紹介します。",
+  category: "ガイド",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Best+Team+Loadouts",
+  date: "2026-07-10",
+  author: "Universal Tower Defense Z Wikiチーム"
+}
+
+<Callout type="info" title="クイックガイド">
+- **主な目標**: 純粋なDPS、サポートバフ、資金生成のバランスを取り、**Universal Tower Defense Zの最強チーム**を構築すること。
+- **最強DPSキャリー**: **Joyful Captain**、**Jinoo (Shadow Monarch)**、**The Strongest in History**などのS+ティアユニットを配置します。
+- **必須サポート**: **Virtual Idol (Super Star)**でダメージ出力を強化し、**The Strongest of Today**でウェーブをコントロールします。
+- **資金源の核**: 終盤の高額なアップグレード資金を確保するため、常に**Bulmo**または**Fastcart**を編成に入れてください。
+- **マップ戦略**: 範囲攻撃の効果を最大化するため、主要なアタッカーはコーナー付近や長い直線ルート沿いに配置します。
+</Callout>
+
+<Section icon={Swords} title="メタチーム編成戦略">
+
+**Universal Tower Defense Zの最強チーム**を構築するには、ユニットの役割を深く理解する必要があります。よくある間違いは、高額なアタッカーだけでチームを埋めてしまうことです。適切なサポートと資金生成ユニットがなければ、強力なアタッカーを配置する前に、足の速い敵を逃してしまう（リークする）ことになります。
+
+インフィニットモード、レイド、高難度のチャレンジを攻略するには、バランスの取れた編成が必要です。以下の表は、非常に効率的なセットアップに必要な主要な役割をまとめたものです。
+
+| 役割 | 推奨ユニット | 主な役割・機能 | 優先度 |
+| :--- | :--- | :--- | :--- |
+| **メインDPS** | Joyful Captain, Jinoo, The Strongest in History | 主なダメージ出力、ボス処理 | 高 |
+| **範囲攻撃 / ウェーブ処理** | King Sailor (Unrivaled), Phantom Captain | 大量の雑魚敵を一掃する | 高 |
+| **バフサポート** | Virtual Idol (Super Star), Love Goddess | チームのダメージと射程を倍増させる | 中 |
+| **クラウドコントロール** | The Strongest of Today, Alpha Devil (Omega) | ボスを気絶、スロウ、デバフにする | 中 |
+| **資金生成（エコノミー）** | Bulmo, Fastcart | 迅速なアップグレードのための資金生成 | 高 |
+
+<Callout type="tip" title="相乗効果（シナジー）のヒント">
+**Jinoo (Shadow Monarch)**のような成長型DPSユニットと、**Virtual Idol**のようなダメージバッファーを常にペアにしましょう。この組み合わせにより、インフィニットモードの後半ウェーブでチームの火力が指数関数的に上昇します。
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="各ゲームモードの最強チーム編成">
+
+チーム編成は、挑戦する特定のコンテンツに合わせて調整する必要があります。ストーリーモードでは素早く安価なセットアップが求められますが、レイドやインフィニットモードでは高いユーティリティと大ダメージを与える戦略が必要です。
+
+<CardGrid cols={3}>
+  <Card title="インフィニットモード編成">
+    - **メインキャリー**: Jinoo (Shadow Monarch)
+    - **バッファー**: Virtual Idol (Super Star)
+    - **エコノミー**: Fastcart & Bulmo
+    - **ユーティリティ**: The Strongest of Today
+  </Card>
+  <Card title="レイド＆ボス戦編成">
+    - **メインキャリー**: Triple Threat (Unrivaled)
+    - **ボスアタッカー**: The Strongest in History
+    - **デバッファー**: Crow Shinobi (Reanimated)
+    - **エコノミー**: Bulmo
+  </Card>
+  <Card title="ストーリー進行編成">
+    - **メインキャリー**: Ancient Mage (Sage)
+    - **対空防衛**: Super Roku (Enraged)
+    - **エコノミー**: Bulmo
+    - **スタン役**: Ultiorra (Oblivion)
+  </Card>
+</CardGrid>
+
+以下の表は、これら3つの主要なチーム編成のパフォーマンスをエンドゲームの様々なパラメータで比較したものです。適切なビルドを選ぶ参考にしてください。
+
+| チームタイプ | ウェーブ処理速度 | ボスダメージ | 必要リソース | 難易度 |
+| :--- | :--- | :--- | :--- | :--- |
+| **無限スケール型** | 優秀 | 非常に高い | 極めて高い | 難 |
+| **レイドボス瞬殺型** | 普通 | 極限 | 中 | 中 |
+| **ストーリー進行型** | 高 | 普通 | 低 | 易 |
+
+<Callout type="warning" title="アップグレードの優先順位">
+ゴールドやアップグレード素材をチームメンバー全員に均等に分散させないでください。まずはメインDPSキャリーを完全に進化させ、レベルを上げることに集中しましょう。メインDPSがチーム全体の総ダメージの80%以上を叩き出すからです。
+</Callout>
+
+</Section>
+
+<Section icon={Map} title="ステップバイステップ配置・育成ガイド">
+
+**Universal Tower Defense Zの最強チーム**を編成したら、試合中に適切な配置とアップグレードの順序を実行する必要があります。Sティアのキャラクターを持っていても、ランダムに配置すると早期敗北につながります。
+
+<Steps>
+  <Step num="1" title="最初に資金生成ユニットを配置する">
+    ウェーブ1が始まったらすぐに、安全な隅のエリアにBulmoまたはFastcartを配置します。序盤の簡単なウェーブの間にこれらをアップグレードし、高額なアタッカーを配置するための安定した収入源を確保します。
+  </Step>
+  <Step num="2" title="安価な防衛ユニットを配置する">
+    資金生成ユニットがお金を稼ぐ間、初期の敵ウェーブに対処するため、ルートの入り口付近にコストパフォーマンスの良い地上またはハイブリッドユニットを配置します。
+  </Step>
+  <Step num="3" title="要所のチョークポイントにメインDPSを配置する">
+    Joyful Captainなどの主要なアタッカーは、攻撃範囲がルートを最大限にカバーできるよう、コーナー、交差点、または長い直線ルートに配置します。
+  </Step>
+  <Step num="4" title="サポートバッファーとデバッファーをセットアップする">
+    Virtual Idol (Super Star)は、バフの範囲ができるだけ多くのメインDPSユニットをカバーするように配置します。デバッファーは、侵入してくるボスを弱体化させるために前方に配置します。
+  </Step>
+  <Step num="5" title="プライマリキャリーを最大まで強化する">
+    中盤から終盤にかけての資金はすべてメインDPSキャリーの最大アップグレードに集中させ、最終形態の強力な攻撃を解放します。
+  </Step>
+</Steps>
+
+<Callout type="info" title="戦術的な注意点">
+飛行する敵が出現する場合は、**Sharpshooter King (Trapper)**などの専用の高台またはハイブリッドユニットを少なくとも1体、メインルートの射程内に配置してください。
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="メタチームの最適化チェックリスト">
+
+チームを限界まで強化するには、試合外で個々のユニットのステータス、特性（トレイツ）、進化ルートを最適化する必要があります。このチェックリストを使用して、メンバーがエンドゲームコンテンツに向けて完全に準備されているか確認してください。
+
+<Checklist
+  id="team-optimization"
+  title="エンドゲームチームチェックリスト:"
+  items={[
+    "有効なコードをすべて引き換え、特性リロール（Trait Reroll）とジェムを貯める。",
+    "メインDPSキャリーの特性をリロールし、高ティアのダメージ補正効果を獲得する。",
+    "サポートユニットの重要なステータスをロックし、バフ範囲とクールダウン短縮を最大化する。",
+    "レイド素材を周回し、Sティアユニットを「Unrivaled（比類なき）」または「Sage（賢者）」フォームに進化させる。",
+    "コアメンバーをエーテル化（Etherealize）して、強力なパッシブステータス上昇を解放する。"
+  ]}
+/>
+
+<Callout type="success" title="リロール戦略">
+プレミアム特性リロールとステータスロックは、S+ティアユニット専用に温存しておきましょう。中盤の一時的なユニットに貴重なリソースを消費すると、エンドゲームの進行が大幅に遅れてしまいます。
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="よくある質問（FAQ）">
+
+<FAQ items={[
+  {
+    question: "Universal Tower Defense Zのインフィニットモードにおける絶対的な最強チームは何ですか？",
+    answer: "インフィニットモードの絶対的な最強チームは、成長型DPSとしてのJinoo (Shadow Monarch)、バッファーとしてのVirtual Idol (Super Star)、クラウドコントロール用のThe Strongest of Today、そして資金を最大化するためのBulmoとFastcartの両方で構成されます。"
+  },
+  {
+    question: "サポートユニットとアタッカーのどちらの進化を優先すべきですか？",
+    answer: "常にアタッカーの進化を最優先してください。サポートユニットは既存のダメージを乗算するだけなので、メインキャリーが弱い場合、サポートバフの効果はほとんど得られません。"
+  },
+  {
+    question: "メインDPSが地上専用ユニットの場合、飛行ユニットにはどう対処すればよいですか？",
+    answer: "空路をカバーして敵の侵入を防ぐために、Sharpshooter King (Trapper)やSuper Roku (Enraged)などの強力な高台ユニットまたはハイブリッドユニットをチームに少なくとも1体編成する必要があります。"
+  },
+  {
+    question: "同じチームに資金生成ユニットを2体編成する価値はありますか？",
+    answer: "はい。インフィニットモードや高難度のチャレンジでは、高額なS+ティアキャリーをより早く最大アップグレードできるように、BulmoとFastcartの両方を編成することを強くお勧めします。"
+  }
+]} />
+
+</Section>

@@ -1,1 +1,706 @@
-{}
+{
+  "en": {
+    "boss": [
+      {
+        "slug": "universal-tower-defense-z-dbz-ultra-boss",
+        "file": "universal-tower-defense-z-dbz-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-where-is-dbz-ultra-boss",
+        "file": "universal-tower-defense-z-where-is-dbz-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-zero-mortal-plan-ultra-boss",
+        "file": "universal-tower-defense-z-zero-mortal-plan-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-zero-mortal-plan",
+        "file": "universal-tower-defense-z-zero-mortal-plan"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "universal-tower-defense-z-codes",
+        "file": "universal-tower-defense-z-codes"
+      }
+    ],
+    "etherealize": [
+      {
+        "slug": "universal-tower-defense-z-etherealization-npc",
+        "file": "universal-tower-defense-z-etherealization-npc"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealization-shards",
+        "file": "universal-tower-defense-z-etherealization-shards"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealize-boundless",
+        "file": "universal-tower-defense-z-etherealize-boundless"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealize",
+        "file": "universal-tower-defense-z-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize-gojo",
+        "file": "universal-tower-defense-z-how-to-etherealize-gojo"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize-luffy",
+        "file": "universal-tower-defense-z-how-to-etherealize-luffy"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize",
+        "file": "universal-tower-defense-z-how-to-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-what-is-etherealize",
+        "file": "universal-tower-defense-z-what-is-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-why-cant-i-etherealize-luffy",
+        "file": "universal-tower-defense-z-why-cant-i-etherealize-luffy"
+      }
+    ],
+    "event": [
+      {
+        "slug": "universal-tower-defense-z-blitz-pass",
+        "file": "universal-tower-defense-z-blitz-pass"
+      },
+      {
+        "slug": "universal-tower-defense-z-blitz",
+        "file": "universal-tower-defense-z-blitz"
+      },
+      {
+        "slug": "universal-tower-defense-z-pirate-blitz",
+        "file": "universal-tower-defense-z-pirate-blitz"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "universal-tower-defense-z-beginner-guide",
+        "file": "universal-tower-defense-z-beginner-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-best-team",
+        "file": "universal-tower-defense-z-best-team"
+      },
+      {
+        "slug": "universal-tower-defense-z-bleach-units-guide",
+        "file": "universal-tower-defense-z-bleach-units-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-get-every-new-unit",
+        "file": "universal-tower-defense-z-how-to-get-every-new-unit"
+      },
+      {
+        "slug": "universal-tower-defense-z-noob-to-pro-guide",
+        "file": "universal-tower-defense-z-noob-to-pro-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-summer-event-guide",
+        "file": "universal-tower-defense-z-summer-event-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-tier-list",
+        "file": "universal-tower-defense-z-tier-list"
+      },
+      {
+        "slug": "universal-tower-defense-z-update-4-guide",
+        "file": "universal-tower-defense-z-update-4-guide"
+      }
+    ],
+    "optimizer": [
+      {
+        "slug": "universal-tower-defense-z-build-optimizer",
+        "file": "universal-tower-defense-z-build-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-loadout-calculator",
+        "file": "universal-tower-defense-z-loadout-calculator"
+      },
+      {
+        "slug": "universal-tower-defense-z-meta-optimizer",
+        "file": "universal-tower-defense-z-meta-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-optimizer",
+        "file": "universal-tower-defense-z-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-unit-optimizer",
+        "file": "universal-tower-defense-z-unit-optimizer"
+      }
+    ],
+    "zoro": [
+      {
+        "slug": "universal-tower-defense-z-best-trait-for-zoro",
+        "file": "universal-tower-defense-z-best-trait-for-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-evolve-zoro",
+        "file": "universal-tower-defense-z-how-to-evolve-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-get-zoro",
+        "file": "universal-tower-defense-z-how-to-get-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-shiny-zoro",
+        "file": "universal-tower-defense-z-shiny-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-build",
+        "file": "universal-tower-defense-z-zoro-build"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-evo-items",
+        "file": "universal-tower-defense-z-zoro-evo-items"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-fragments",
+        "file": "universal-tower-defense-z-zoro-fragments"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-quest",
+        "file": "universal-tower-defense-z-zoro-quest"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-relic",
+        "file": "universal-tower-defense-z-zoro-relic"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro",
+        "file": "universal-tower-defense-z-zoro"
+      }
+    ]
+  },
+  "es": {
+    "boss": [
+      {
+        "slug": "universal-tower-defense-z-dbz-ultra-boss",
+        "file": "universal-tower-defense-z-dbz-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-where-is-dbz-ultra-boss",
+        "file": "universal-tower-defense-z-where-is-dbz-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-zero-mortal-plan-ultra-boss",
+        "file": "universal-tower-defense-z-zero-mortal-plan-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-zero-mortal-plan",
+        "file": "universal-tower-defense-z-zero-mortal-plan"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "universal-tower-defense-z-codes",
+        "file": "universal-tower-defense-z-codes"
+      }
+    ],
+    "etherealize": [
+      {
+        "slug": "universal-tower-defense-z-etherealization-npc",
+        "file": "universal-tower-defense-z-etherealization-npc"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealization-shards",
+        "file": "universal-tower-defense-z-etherealization-shards"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealize-boundless",
+        "file": "universal-tower-defense-z-etherealize-boundless"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealize",
+        "file": "universal-tower-defense-z-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize-gojo",
+        "file": "universal-tower-defense-z-how-to-etherealize-gojo"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize-luffy",
+        "file": "universal-tower-defense-z-how-to-etherealize-luffy"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize",
+        "file": "universal-tower-defense-z-how-to-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-what-is-etherealize",
+        "file": "universal-tower-defense-z-what-is-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-why-cant-i-etherealize-luffy",
+        "file": "universal-tower-defense-z-why-cant-i-etherealize-luffy"
+      }
+    ],
+    "event": [
+      {
+        "slug": "universal-tower-defense-z-blitz-pass",
+        "file": "universal-tower-defense-z-blitz-pass"
+      },
+      {
+        "slug": "universal-tower-defense-z-blitz",
+        "file": "universal-tower-defense-z-blitz"
+      },
+      {
+        "slug": "universal-tower-defense-z-pirate-blitz",
+        "file": "universal-tower-defense-z-pirate-blitz"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "universal-tower-defense-z-beginner-guide",
+        "file": "universal-tower-defense-z-beginner-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-best-team",
+        "file": "universal-tower-defense-z-best-team"
+      },
+      {
+        "slug": "universal-tower-defense-z-bleach-units-guide",
+        "file": "universal-tower-defense-z-bleach-units-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-get-every-new-unit",
+        "file": "universal-tower-defense-z-how-to-get-every-new-unit"
+      },
+      {
+        "slug": "universal-tower-defense-z-noob-to-pro-guide",
+        "file": "universal-tower-defense-z-noob-to-pro-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-summer-event-guide",
+        "file": "universal-tower-defense-z-summer-event-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-tier-list",
+        "file": "universal-tower-defense-z-tier-list"
+      },
+      {
+        "slug": "universal-tower-defense-z-update-4-guide",
+        "file": "universal-tower-defense-z-update-4-guide"
+      }
+    ],
+    "optimizer": [
+      {
+        "slug": "universal-tower-defense-z-build-optimizer",
+        "file": "universal-tower-defense-z-build-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-loadout-calculator",
+        "file": "universal-tower-defense-z-loadout-calculator"
+      },
+      {
+        "slug": "universal-tower-defense-z-meta-optimizer",
+        "file": "universal-tower-defense-z-meta-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-optimizer",
+        "file": "universal-tower-defense-z-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-unit-optimizer",
+        "file": "universal-tower-defense-z-unit-optimizer"
+      }
+    ],
+    "zoro": [
+      {
+        "slug": "universal-tower-defense-z-best-trait-for-zoro",
+        "file": "universal-tower-defense-z-best-trait-for-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-evolve-zoro",
+        "file": "universal-tower-defense-z-how-to-evolve-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-get-zoro",
+        "file": "universal-tower-defense-z-how-to-get-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-shiny-zoro",
+        "file": "universal-tower-defense-z-shiny-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-build",
+        "file": "universal-tower-defense-z-zoro-build"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-evo-items",
+        "file": "universal-tower-defense-z-zoro-evo-items"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-fragments",
+        "file": "universal-tower-defense-z-zoro-fragments"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-quest",
+        "file": "universal-tower-defense-z-zoro-quest"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-relic",
+        "file": "universal-tower-defense-z-zoro-relic"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro",
+        "file": "universal-tower-defense-z-zoro"
+      }
+    ]
+  },
+  "ja": {
+    "boss": [
+      {
+        "slug": "universal-tower-defense-z-dbz-ultra-boss",
+        "file": "universal-tower-defense-z-dbz-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-where-is-dbz-ultra-boss",
+        "file": "universal-tower-defense-z-where-is-dbz-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-zero-mortal-plan-ultra-boss",
+        "file": "universal-tower-defense-z-zero-mortal-plan-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-zero-mortal-plan",
+        "file": "universal-tower-defense-z-zero-mortal-plan"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "universal-tower-defense-z-codes",
+        "file": "universal-tower-defense-z-codes"
+      }
+    ],
+    "etherealize": [
+      {
+        "slug": "universal-tower-defense-z-etherealization-npc",
+        "file": "universal-tower-defense-z-etherealization-npc"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealization-shards",
+        "file": "universal-tower-defense-z-etherealization-shards"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealize-boundless",
+        "file": "universal-tower-defense-z-etherealize-boundless"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealize",
+        "file": "universal-tower-defense-z-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize-gojo",
+        "file": "universal-tower-defense-z-how-to-etherealize-gojo"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize-luffy",
+        "file": "universal-tower-defense-z-how-to-etherealize-luffy"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize",
+        "file": "universal-tower-defense-z-how-to-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-what-is-etherealize",
+        "file": "universal-tower-defense-z-what-is-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-why-cant-i-etherealize-luffy",
+        "file": "universal-tower-defense-z-why-cant-i-etherealize-luffy"
+      }
+    ],
+    "event": [
+      {
+        "slug": "universal-tower-defense-z-blitz-pass",
+        "file": "universal-tower-defense-z-blitz-pass"
+      },
+      {
+        "slug": "universal-tower-defense-z-blitz",
+        "file": "universal-tower-defense-z-blitz"
+      },
+      {
+        "slug": "universal-tower-defense-z-pirate-blitz",
+        "file": "universal-tower-defense-z-pirate-blitz"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "universal-tower-defense-z-beginner-guide",
+        "file": "universal-tower-defense-z-beginner-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-best-team",
+        "file": "universal-tower-defense-z-best-team"
+      },
+      {
+        "slug": "universal-tower-defense-z-bleach-units-guide",
+        "file": "universal-tower-defense-z-bleach-units-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-get-every-new-unit",
+        "file": "universal-tower-defense-z-how-to-get-every-new-unit"
+      },
+      {
+        "slug": "universal-tower-defense-z-noob-to-pro-guide",
+        "file": "universal-tower-defense-z-noob-to-pro-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-summer-event-guide",
+        "file": "universal-tower-defense-z-summer-event-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-tier-list",
+        "file": "universal-tower-defense-z-tier-list"
+      },
+      {
+        "slug": "universal-tower-defense-z-update-4-guide",
+        "file": "universal-tower-defense-z-update-4-guide"
+      }
+    ],
+    "optimizer": [
+      {
+        "slug": "universal-tower-defense-z-build-optimizer",
+        "file": "universal-tower-defense-z-build-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-loadout-calculator",
+        "file": "universal-tower-defense-z-loadout-calculator"
+      },
+      {
+        "slug": "universal-tower-defense-z-meta-optimizer",
+        "file": "universal-tower-defense-z-meta-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-optimizer",
+        "file": "universal-tower-defense-z-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-unit-optimizer",
+        "file": "universal-tower-defense-z-unit-optimizer"
+      }
+    ],
+    "zoro": [
+      {
+        "slug": "universal-tower-defense-z-best-trait-for-zoro",
+        "file": "universal-tower-defense-z-best-trait-for-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-evolve-zoro",
+        "file": "universal-tower-defense-z-how-to-evolve-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-get-zoro",
+        "file": "universal-tower-defense-z-how-to-get-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-shiny-zoro",
+        "file": "universal-tower-defense-z-shiny-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-build",
+        "file": "universal-tower-defense-z-zoro-build"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-evo-items",
+        "file": "universal-tower-defense-z-zoro-evo-items"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-fragments",
+        "file": "universal-tower-defense-z-zoro-fragments"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-quest",
+        "file": "universal-tower-defense-z-zoro-quest"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-relic",
+        "file": "universal-tower-defense-z-zoro-relic"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro",
+        "file": "universal-tower-defense-z-zoro"
+      }
+    ]
+  },
+  "pt": {
+    "boss": [
+      {
+        "slug": "universal-tower-defense-z-dbz-ultra-boss",
+        "file": "universal-tower-defense-z-dbz-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-where-is-dbz-ultra-boss",
+        "file": "universal-tower-defense-z-where-is-dbz-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-zero-mortal-plan-ultra-boss",
+        "file": "universal-tower-defense-z-zero-mortal-plan-ultra-boss"
+      },
+      {
+        "slug": "universal-tower-defense-z-zero-mortal-plan",
+        "file": "universal-tower-defense-z-zero-mortal-plan"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "universal-tower-defense-z-codes",
+        "file": "universal-tower-defense-z-codes"
+      }
+    ],
+    "etherealize": [
+      {
+        "slug": "universal-tower-defense-z-etherealization-npc",
+        "file": "universal-tower-defense-z-etherealization-npc"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealization-shards",
+        "file": "universal-tower-defense-z-etherealization-shards"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealize-boundless",
+        "file": "universal-tower-defense-z-etherealize-boundless"
+      },
+      {
+        "slug": "universal-tower-defense-z-etherealize",
+        "file": "universal-tower-defense-z-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize-gojo",
+        "file": "universal-tower-defense-z-how-to-etherealize-gojo"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize-luffy",
+        "file": "universal-tower-defense-z-how-to-etherealize-luffy"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-etherealize",
+        "file": "universal-tower-defense-z-how-to-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-what-is-etherealize",
+        "file": "universal-tower-defense-z-what-is-etherealize"
+      },
+      {
+        "slug": "universal-tower-defense-z-why-cant-i-etherealize-luffy",
+        "file": "universal-tower-defense-z-why-cant-i-etherealize-luffy"
+      }
+    ],
+    "event": [
+      {
+        "slug": "universal-tower-defense-z-blitz-pass",
+        "file": "universal-tower-defense-z-blitz-pass"
+      },
+      {
+        "slug": "universal-tower-defense-z-blitz",
+        "file": "universal-tower-defense-z-blitz"
+      },
+      {
+        "slug": "universal-tower-defense-z-pirate-blitz",
+        "file": "universal-tower-defense-z-pirate-blitz"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "universal-tower-defense-z-beginner-guide",
+        "file": "universal-tower-defense-z-beginner-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-best-team",
+        "file": "universal-tower-defense-z-best-team"
+      },
+      {
+        "slug": "universal-tower-defense-z-bleach-units-guide",
+        "file": "universal-tower-defense-z-bleach-units-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-get-every-new-unit",
+        "file": "universal-tower-defense-z-how-to-get-every-new-unit"
+      },
+      {
+        "slug": "universal-tower-defense-z-noob-to-pro-guide",
+        "file": "universal-tower-defense-z-noob-to-pro-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-summer-event-guide",
+        "file": "universal-tower-defense-z-summer-event-guide"
+      },
+      {
+        "slug": "universal-tower-defense-z-tier-list",
+        "file": "universal-tower-defense-z-tier-list"
+      },
+      {
+        "slug": "universal-tower-defense-z-update-4-guide",
+        "file": "universal-tower-defense-z-update-4-guide"
+      }
+    ],
+    "optimizer": [
+      {
+        "slug": "universal-tower-defense-z-build-optimizer",
+        "file": "universal-tower-defense-z-build-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-loadout-calculator",
+        "file": "universal-tower-defense-z-loadout-calculator"
+      },
+      {
+        "slug": "universal-tower-defense-z-meta-optimizer",
+        "file": "universal-tower-defense-z-meta-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-optimizer",
+        "file": "universal-tower-defense-z-optimizer"
+      },
+      {
+        "slug": "universal-tower-defense-z-unit-optimizer",
+        "file": "universal-tower-defense-z-unit-optimizer"
+      }
+    ],
+    "zoro": [
+      {
+        "slug": "universal-tower-defense-z-best-trait-for-zoro",
+        "file": "universal-tower-defense-z-best-trait-for-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-evolve-zoro",
+        "file": "universal-tower-defense-z-how-to-evolve-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-how-to-get-zoro",
+        "file": "universal-tower-defense-z-how-to-get-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-shiny-zoro",
+        "file": "universal-tower-defense-z-shiny-zoro"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-build",
+        "file": "universal-tower-defense-z-zoro-build"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-evo-items",
+        "file": "universal-tower-defense-z-zoro-evo-items"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-fragments",
+        "file": "universal-tower-defense-z-zoro-fragments"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-quest",
+        "file": "universal-tower-defense-z-zoro-quest"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro-relic",
+        "file": "universal-tower-defense-z-zoro-relic"
+      },
+      {
+        "slug": "universal-tower-defense-z-zoro",
+        "file": "universal-tower-defense-z-zoro"
+      }
+    ]
+  }
+}

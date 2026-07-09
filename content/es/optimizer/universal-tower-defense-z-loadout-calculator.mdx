@@ -1,0 +1,162 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Calculadora de equipamiento de Universal Tower Defense Z: Creador de equipos meta",
+  description: "Optimiza tu alineación con la guía definitiva de la calculadora de equipamiento de Universal Tower Defense Z. Crea equipos de nivel S para los modos Incursión, Infinito y de Historia.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e1b4b/fff?text=UTDZ+Loadout+Calculator",
+  date: "2026-07-10",
+  author: "Equipo de la Wiki de Universal Tower Defense Z"
+}
+
+<Callout type="info" title="Guía rápida">
+- **Estrategia de equipamiento**: Un equipo perfecto requiere equilibrar el DPS puro, el daño progresivo, las mejoras de utilidad y las unidades de economía.
+- **Herramienta principal**: Usa esta guía de la **calculadora de equipamiento de Universal Tower Defense Z** para planificar las mejoras y sinergias de tus unidades antes de gastar recursos valiosos.
+- **Carries del meta**: Unidades como Joyful Captain y King Sailor sirven como los principales infligidores de daño para el contenido final del juego.
+- **Reglas de economía**: Lleva siempre al menos una unidad de cultivo como Bulmo o Fastcart para financiar las costosas mejoras del juego tardío.
+- **Ahorro de recursos**: Canjea los códigos activos para asegurar Rerolls de Rasgos y Gemas gratis antes de optimizar las estadísticas de tu alineación.
+</Callout>
+
+<Section icon={Map} title="Principios básicos de equipamiento en UTDZ">
+
+Crear un equipo invencible en Universal Tower Defense Z requiere más que simplemente acumular tus personajes de mayor rareza. Un equipamiento equilibrado debe encargarse de la configuración económica en las primeras oleadas, el control de masas a mitad de la partida y el escalado de jefes en el juego tardío. Para calcular la composición perfecta del equipo, debes asignar roles específicos a tus seis espacios disponibles.
+
+| Rol de espacio | Propósito principal | Ejemplos de unidades clave | Prioridad |
+|--- |--- |--- |--- |
+| **DPS principal** | Infligir daño masivo localizado o en área (AOE) | Joyful Captain, King Sailor | **Alta** |
+| **DPS progresivo**| Volverse más fuerte en oleadas largas de Infinito | Jinoo (Shadow Monarch) | **Alta** |
+| **Soporte de mejoras**| Multiplicar el daño y el alcance de los carries | Virtual Idol, Love Goddess | **Media** |
+| **Control de masas**| Ralentizar, aturdir o debilitar a los enemigos rápidos | The Strongest of Today | **Media** |
+| **Economía/Cultivo**| Generar un flujo constante de dinero para mejoras | Bulmo, Fastcart | **Alta** |
+| **Espacio flexible** | Defensa aérea, daño por sangrado o utilidad adicional | Sharpshooter King, Triple Threat | **Baja** |
+
+<Callout type="tip" title="Bono de sinergia">
+Coloca siempre tus unidades de soporte de mejoras donde sus círculos de alcance se superpongan con múltiples unidades de DPS. Esto maximiza la utilidad de cada moneda gastada en mejoras.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Lista de niveles de unidades del meta y valores de la calculadora">
+
+Para calcular el daño potencial de tu equipo, debes comprender en qué lugar del meta actual se encuentran tus unidades. La siguiente tabla detalla las unidades de nivel S y A que dominan el juego tardío, especificando sus roles principales y los mejores escenarios de uso.
+
+| Nombre de la unidad | Nivel | Rol base | Mejor modo | Fuerza clave |
+|--- |--- |--- |--- |--- |
+| **Joyful Captain** | **S+** | DPS / Soporte | Infinito | Daño extremo a jefes, utilidad versátil |
+| **King Sailor (Unrivaled)** | **S+** | DPS en área (AOE) | Infinito | Limpieza masiva de área, inmunidad al aturdimiento |
+| **Jinoo (Shadow Monarch)** | **S+** | DPS progresivo | Infinito | Escalado infinito en partidas largas |
+| **The Strongest of Today** | **S+** | DPS / Debilitador | Incursiones | Antihiperarmadura, alta presión en el mapa |
+| **Triple Threat (Unrivaled)**| **S** | Asesino de jefes | Incursiones | Alto daño por sangrado a un solo objetivo |
+| **Love Goddess** | **S** | Soporte / Mejoras | Reino Virtual | Alta economía y mejoras para un solo carry |
+| **Virtual Idol (Super Star)**| **A** | Soporte de mejoras | Infinito | Multiplicadores directos de daño y alcance |
+| **Bulmo** | **Cultivo**| Economía | Todos los modos | Generación rápida de ingresos en el juego temprano |
+
+<CardGrid cols={3}>
+  <Card title="Carries de nivel S+">
+    - **Joyful Captain**: Versatilidad inigualable.
+    - **King Sailor**: El mejor daño en área de su clase.
+    - **Jinoo**: Esencial para el escalado infinito en oleadas altas.
+  </Card>
+  <Card title="Soportes de nivel A">
+    - **Virtual Idol**: Aumenta el alcance y el daño.
+    - **Love Goddess**: Perfecto para configuraciones de un solo carry.
+    - **The Strongest of Today**: Debilitador de primer nivel.
+  </Card>
+  <Card title="Esenciales de economía">
+    - **Bulmo**: Bajo costo de colocación, retorno rápido.
+    - **Fastcart**: Excelente para equipos costosos con escalado.
+    - **Regla de equipamiento**: Nunca juegues modos difíciles sin uno.
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Advertencia de recursos">
+No distribuyas tus recursos de mejora de manera uniforme. Concéntrate en subir tu carry de nivel S+ al nivel máximo antes de invertir fuertemente en unidades de soporte.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Optimización del equipamiento paso a paso">
+
+Sigue esta ruta de progresión estructurada para construir, probar y perfeccionar tus equipos utilizando nuestra metodología de optimización.
+
+<Steps>
+  <Step num="1" title="Canjea códigos activos">
+    Antes de gastar gemas u oro, canjea todos los códigos promocionales activos. Esto asegura Rerolls de Rasgos, Rerolls de Estadísticas y monedas de evento gratis para impulsar tu configuración.
+  </Step>
+  <Step num="2" title="Selecciona tu carry principal">
+    Elige tu infligidor de daño principal según el modo de juego. Usa a King Sailor para oleadas intensas de área o a Triple Threat para jefes de incursión de un solo objetivo.
+  </Step>
+  <Step num="3" title="Añade una unidad de economía">
+    Equipa a Bulmo o Fastcart. Calcula tus costos de colocación para asegurarte de poder desplegar tu unidad de economía en la oleada 1 sin que se filtren enemigos.
+  </Step>
+  <Step num="4" title="Incorpora utilidad y mejoras">
+    Llena tus espacios restantes con un potenciador como Virtual Idol y un debilitador para ralentizar a los jefes rápidos.
+  </Step>
+  <Step num="5" title="Ejecuta una simulación de prueba">
+    Inicia una etapa del Reino Virtual o del modo Historia de bajo riesgo para probar tu orden de colocación, costos de mejora y cobertura defensiva.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Optimización completada">
+Una vez que tu prueba tenga éxito sin filtraciones, fija las estadísticas de tus unidades y prepárate para enfrentarte a incursiones de alto nivel y jefes mundiales.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Cálculos de costos de rasgos y rerolls">
+
+Optimizar tu equipamiento requiere conseguir los mejores rasgos en tus unidades principales. Usa esta tabla de referencia para calcular los recursos necesarios para perfeccionar las estadísticas de tu equipo.
+
+| Recurso de mejora | Fuente principal | Mejor caso de uso | Prioridad de ahorro |
+|--- |--- |--- |--- |
+| **Rerolls de rasgos** | Códigos, incursiones, eventos | Conseguir rasgos de nivel S en carries principales | **Alta** |
+| **Rerolls de estadísticas** | Códigos, misiones diarias | Ajustar porcentajes de daño y enfriamiento | **Media** |
+| **Bloqueos de estadísticas** | Códigos, tienda premium | Proteger tiradas perfectas de 15% de daño | **Alta** |
+| **Gemas universales** | Modos de evento, historia | Comprar objetos de evolución de alto nivel | **Media** |
+
+<Checklist
+  id="loadout-checklist"
+  title="Lista de verificación de preparación del equipamiento:"
+  items={[
+    "Canjeado todos los códigos activos para Rerolls de rasgos",
+    "Equipada al menos una unidad de DPS principal de nivel S",
+    "Equipada una unidad de economía (Bulmo o Fastcart)",
+    "Bloqueadas las estadísticas de alto valor en tu carry principal",
+    "Probada la sinergia de colocación en el Reino Virtual"
+  ]}
+/>
+
+<Callout type="info" title="Estrategia profesional de Reroll">
+Nunca uses bloqueos de estadísticas en unidades de progresión temporal. Guárdalos exclusivamente para personajes de nivel S+ que permanecerán en tu equipamiento de juego tardío.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "¿Cómo calculo el mejor orden de colocación en UTDZ?",
+    answer: "Coloca siempre tu unidad de economía primero para empezar a generar dinero. Sigue inmediatamente con una unidad terrestre barata y de alta eficiencia para defender las primeras oleadas, luego coloca tu DPS principal y tus potenciadores a medida que aumenten tus ingresos."
+  },
+  {
+    question: "¿Por qué es útil una calculadora de equipamiento de Universal Tower Defense Z?",
+    answer: "Evita que desperdicies recursos valiosos como Rerolls de rasgos y Bloqueos de estadísticas en unidades débiles. Al planificar los roles de tu equipo y verificar las sinergias con anticipación, puedes crear una alineación optimizada más rápido."
+  },
+  {
+    question: "¿Puedo completar incursiones del juego tardío sin una unidad de economía?",
+    answer: "No. Las unidades de alto nivel requieren inversiones masivas de dinero para sus etapas finales de mejora. Sin Bulmo o Fastcart generando ingresos pasivos, te quedarás sin dinero y se filtrarán las oleadas de jefes."
+  },
+  {
+    question: "¿Debería priorizar los Rerolls de rasgos o los Rerolls de estadísticas primero?",
+    answer: "Prioriza primero los Rerolls de rasgos para asegurar rasgos únicos y poderosos. Una vez que tengas un rasgo de primer nivel en tu unidad, usa Rerolls de estadísticas y Bloqueos de estadísticas para ajustar su daño base y porcentajes de enfriamiento."
+  }
+]} />
+
+</Section>

@@ -1,0 +1,156 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Universal Tower Defense Z 「Etherealize（霊体化）」とは：完全パワーシステムガイド",
+  description: "Universal Tower Defense ZにおけるEtherealize（霊体化）システムについて学びましょう。Etherealization Shardsの使用方法、ユニットの強化、エンドゲームパワーの解放について解説します。",
+  category: "ガイド",
+  image: "https://placehold.co/800x400/1e1b4b/fff?text=Etherealize+Power+System",
+  date: "2026-07-10",
+  author: "Universal Tower Defense Z Wikiチーム"
+}
+
+<Callout type="info" title="クイックガイド">
+- **Etherealize（霊体化）システム**: **Universal Tower Defense Z**におけるエンドゲームの進行メカニズムで、ユニットのステータスを大幅に強化します。
+- **パワーの成長**: 霊体化を行うことで、ユニットの基礎ダメージ、射程、およびスケーリング能力が向上します。
+- **リソースコスト**: 実行には特定の「Etherealization Shards」と「ゴールド（Gold）」が必要です。
+- **アップグレードの優先順位**: トップティアのSランクアタッカーやメタサポートユニットのみを優先的に霊体化させましょう。
+- **進化への架け橋**: 霊体化は、通常のレベルアップと最終的なユニット進化（Evolution）をつなぐ重要なステップです。
+</Callout>
+
+<Section icon={Sparkles} title="Universal Tower Defense Z における Etherealize（霊体化）とは">
+
+Robloxの戦略ゲーム体験である **Universal Tower Defense Z** において、「Etherealize（霊体化）とは何か」は、中盤から高ウェーブのエンドゲームコンテンツへと移行するプレイヤーが抱く最も重要な疑問の一つです。霊体化は、通常のレベルアップの限界を超えてユニットのパワーを引き上げる、中核的なユニット成長メカニズムです。
+
+基本的なレベルアップとは異なり、霊体化はユニットの基礎ステータスを永続的に変更し、ダメージ、攻撃速度、または射程に強力な倍率を付与します。このシステムは、レイド（Raids）、ワールドレイド（World Raids）、バーチャル領域（Virtual Realm）などの高難易度モードをクリアするために不可欠です。
+
+| 成長システム | 主要リソース | 主なメリット | 最適な用途 |
+|---|---|---|---|
+| 召喚 | ジェム / チケット | 基本ユニットの解放 | 初期のチーム編成 |
+| レベルアップ | EXP / ゴールド | 直線的なステータス上昇 | 初期の進行 |
+| 霊体化 | Shards / ゴールド | パーセントベースのステータス倍率 | 中盤から後半のスケーリング |
+| 進化 | 素材 / マテリアル | ユニットの完全な変身 | エンドゲームのメタ準備 |
+
+<Callout type="tip" title="プロのアドバイス">
+貴重な Etherealization Shards を、一時的な使用や低ティアのスターターユニットに無駄遣いしないでください。長期的に使い続ける予定のユニットのために取っておきましょう。
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="霊体化の要件とリソースコスト">
+
+ユニットの霊体化を成功させるには、特定のアップグレードリソースを集める必要があります。霊体化のコストは、ユニットのレア度や試行する霊体化のティアに応じてスケールします。プレイヤーは、特性の再ロール（Trait Rerolls）、ステータスロック（Stat Locks）、そして霊体化素材の間で予算のバランスを取る必要があります。
+
+以下の表は、ユニットのレア度ごとの一般的なリソース要件をまとめたものです：
+
+| ユニットのレア度 | 必要なShards | ゴールドコスト | 成功率 | ステータス倍率 |
+|---|---|---|---|---|
+| レア | 5 Shards | 1,000 | 100% | 基礎ステータス 1.1倍 |
+| エピック | 15 Shards | 5,000 | 100% | 基礎ステータス 1.25倍 |
+| レジェンダリー | 50 Shards | 15,000 | 100% | 基礎ステータス 1.4倍 |
+| ミシック / スペシャル | 100 Shards | 50,000 | 100% | 基礎ステータス 1.6倍 |
+
+<Callout type="warning" title="重要な警告">
+複数のユニットを一度にアップグレードしようとすると、ゴールドはすぐに底をつきます。重い霊体化投資を行う前に、BulmoやFastcartのような経済ユニットを十分にレベルアップさせ、効率的にゴールドを稼げるようにしておきましょう。
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="ユニットを霊体化する方法：ステップバイステップ">
+
+ロースターのパワーをブーストする準備ができたら、以下のステップに従って、最強のダメージディーラーやユーティリティサポートを安全にアップグレードしましょう。
+
+<Steps>
+  <Step num="1" title="ターゲットユニットを選択する">
+    インベントリを開き、最強のS+またはSティアユニットでフィルタリングします。Joyful CaptainやJinoo (Shadow Monarch) のようなメインDPSキャラクターを最優先してください。
+  </Step>
+  <Step num="2" title="Shardsとゴールドを集める">
+    ストーリーモード、チャレンジ、またはレイドを周回して、必要な Etherealization Shards とゴールドを収集します。アクティブなUTDZコードを引き換えて、リソースを素早くブーストすることも可能です。
+  </Step>
+  <Step num="3" title="アップグレードメニューにアクセスする">
+    メインロビーの「Evolution and Upgrade」エリアへ向かいます。インタラクションメニューから「Etherealize」オプションを選択します。
+  </Step>
+  <Step num="4" title="アップグレードを確定する">
+    ステータスの変化とリソースの消費量を確認します。「Confirm（確定）」をクリックして、選択したユニットに霊体化ステータスを適用します。
+  </Step>
+</Steps>
+
+<Callout type="success" title="成功のヒント">
+メインアタッカーを霊体化させた後は、すぐにバーチャル領域（Virtual Realm）でその性能をテストし、クリアタイムの短縮を確認してみましょう。
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="霊体化の優先順位：最初にアップグレードすべきベストユニット">
+
+すべてのユニットが霊体化プロセスの恩恵を等しく受けるわけではありません。スケーリングの高いDPSユニットや、重要なバフを持つサポートユニットにリソースを優先的に投入すべきです。以下は、即座に投資する価値のあるメタユニットの比較です。
+
+<CardGrid cols={3}>
+  <Card title="Joyful Captain">
+    - **役割**: メインDPS / サポート
+    - **優先度**: 高
+    - **メリット**: 無限モードにおける範囲攻撃（AOE）とボスダメージが大幅に強化されます。
+  </Card>
+  <Card title="King Sailor (Unrivaled)">
+    - **役割**: 範囲DPS / リーダーバフ
+    - **優先度**: 高
+    - **メリット**: チーム全体のスタン無効化と自己バフの値が向上します。
+  </Card>
+  <Card title="Virtual Idol (Super Star)">
+    - **役割**: サポートバッファー
+    - **優先度**: 中
+    - **メリット**: ダメージバフの射程と効果が向上します。
+  </Card>
+</CardGrid>
+
+<Callout type="info" title="戦略ノート">
+Bulmoのような純粋な稼ぎ用ユニットの初期段階での霊体化は避けましょう。彼らの純粋な生成ステータスは、純粋なダメージディーラーと比較して、霊体化の倍率による恩恵がそれほど効果的ではないからです。
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="エンドゲーム進行チェックリスト">
+
+Universal Tower Defense Z の進行ループをマスターするには、チーム編成、特性の最適化、ユニットの成長に対するバランスの取れたアプローチが必要です。このチェックリストを使用して、スクワッドの目標を確認してください。
+
+<Checklist
+  id="endgame-goals"
+  title="エンドゲーム・パワーのマイルストーン:"
+  items={[
+    "アクティブなコードをすべて引き換えて、特性再ロールアイテムとジェムを入手する",
+    "メインDPS 1体、サポート 1体、稼ぎ用ユニット 1体を含むバランスの取れたチームを編成する",
+    "メインアタッカーのレベルを最大キャップまで上げる",
+    "メインアタッカーを霊体化して、最大のステータス倍率を解放する",
+    "進化素材を集めて、ユニットを最終形態へと移行させる"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Map} title="よくある質問（FAQ）">
+
+<FAQ items={[
+  {
+    question: "Universal Tower Defense Z における「霊体化（Etherealize）」と「進化（Evolve）」の主な違いは何ですか？",
+    answer: "霊体化は、Shardsとゴールドを使用して既存のユニットの基礎ステータスを向上させます。進化は、ユニットを新しいスキル、アニメーション、特性を持つより高いレア度のバージョンへと完全に変身させます。"
+  },
+  {
+    question: "霊体化プロセスを取り消して Shards を取り戻すことはできますか？",
+    answer: "いいえ、霊体化は永続的なアップグレードです。一度ユニットに Shards とゴールドを消費すると、それらを払い戻したり、他のキャラクターに移したりすることはできません。"
+  },
+  {
+    question: "Etherealization Shards を集めるのに最適な場所はどこですか？",
+    answer: "Etherealization Shards の最も信頼できる入手先は、高ティアのレイド、ワールドレイド、およびイベントモードです。また、期間限定のアップデートコードを通じて入手できることもあります。"
+  },
+  {
+    question: "ユニットを霊体化する前と後のどちらで特性（Trait）を再ロールすべきですか？",
+    answer: "一般的には、まず霊体化を行ってそのユニットを使い続ける決意を固めてから、特性再ロールやステータスロックを使用して最終的なステータスを最適化するのが安全です。"
+  }
+]} />
+
+</Section>

@@ -10,7 +10,15 @@
       "twitterDescription": "Universal Tower Defense Z Wiki with codes, units, tier list, traits, and update guides for Roblox players."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "optimizer": "Optimizer",
+    "etherealize": "Etherealize",
+    "zoro": "Zoro",
+    "boss": "Boss",
+    "event": "Event"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -469,5 +477,146 @@
     "copyright": "© 2026 Universal Tower Defense Z Wiki. Not affiliated with the developers of Universal Tower Defense Z.",
     "disclaimer": "Unofficial fan-made resource website."
   },
-  "pages": {}
+  "pages": {
+    "codes": {
+      "title": "Universal Tower Defense Z Codes",
+      "description": "Latest working Universal Tower Defense Z codes for free Trait Rerolls, Gems, and event currency. Updated with active redeem codes and step-by-step redemption instructions.",
+      "metaTitle": "Universal Tower Defense Z Codes - Free Rerolls & Gems",
+      "metaDescription": "Get free Trait Rerolls, Gems, and event currency with active Universal Tower Defense Z codes. Redeem working codes and stay updated on new drops after every update.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "Universal Tower Defense Z codes are redeemable promo codes released by the developers through Discord, X, and the official Roblox group. Entering them in the in-game Codes menu grants free Trait Rerolls, Stat Locks, Gems, Universal Gems, tickets, and limited-time event currency.",
+      "why": "Why redeem codes?",
+      "whySteps": {
+        "step1Title": "Free Upgrade Resources",
+        "step1Description": "Codes give Trait Rerolls, Stat Locks, and Gems without spending Robux, powering up your strongest units.",
+        "step2Title": "Stay Current with Updates",
+        "step2Description": "New codes drop alongside major updates like Update 4.0, summer events, and milestones, so redeeming keeps your roster competitive.",
+        "step3Title": "Fund Long-Term Units",
+        "step3Description": "Saved code rewards let you invest in S-Tier carries and event units instead of burning resources on starters."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "Universal Tower Defense Z Guides",
+      "description": "Complete Universal Tower Defense Z guides from beginner basics to advanced team building, tier lists, and update walkthroughs for Roblox players.",
+      "metaTitle": "Universal Tower Defense Z Guides - Beginner to Advanced",
+      "metaDescription": "Master Universal Tower Defense Z with beginner guides, team building, tier lists, event walkthroughs, and update strategies for every game mode.",
+      "categoryLabel": "GAME GUIDES",
+      "whatIs": "What are Guides?",
+      "whatIsDescription": "Universal Tower Defense Z guides cover the full gameplay loop: summoning anime units, placing towers, defending waves, upgrading through Etherealize and Evolve, and clearing Story, Raids, and event modes. They range from first-day starter tips to advanced meta team building.",
+      "why": "Why read guides?",
+      "whySteps": {
+        "step1Title": "Learn the Core Loop",
+        "step1Description": "Understand summoning, placement, upgrades, and resource priority so you avoid common beginner mistakes.",
+        "step2Title": "Build Stronger Teams",
+        "step2Description": "Follow proven team compositions and tier lists to clear Story, Raids, and Infinite modes efficiently.",
+        "step3Title": "Keep Up with Updates",
+        "step3Description": "Stay current with Update 4.0 content, new units, and event guides as the meta evolves."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guides"
+    },
+    "optimizer": {
+      "title": "Universal Tower Defense Z Optimizer",
+      "description": "Universal Tower Defense Z optimizer tools and calculators for meta unit builds, loadouts, and damage planning across every game mode.",
+      "metaTitle": "Universal Tower Defense Z Optimizer - Unit & Loadout Calculator",
+      "metaDescription": "Plan your Universal Tower Defense Z builds with optimizer tools for meta units, loadouts, and damage calculation across Story, Raids, and Infinite modes.",
+      "categoryLabel": "OPTIMIZER TOOLS",
+      "whatIs": "What is the Optimizer?",
+      "whatIsDescription": "The Universal Tower Defense Z optimizer helps you plan unit builds, loadouts, and resource allocation. It covers meta unit selection, build paths, trait and stat priorities, and loadout calculators so you can compare options before spending rerolls and upgrade materials.",
+      "why": "Why use the optimizer?",
+      "whySteps": {
+        "step1Title": "Plan Before You Spend",
+        "step1Description": "Compare unit builds and loadouts before committing Trait Rerolls, Stat Locks, and evolution materials.",
+        "step2Title": "Find the Meta Build",
+        "step2Description": "Identify the strongest DPS, support, and farm combinations for each game mode and boss fight.",
+        "step3Title": "Optimize Resource Use",
+        "step3Description": "Allocate Gems, Universal Gems, and rerolls toward units that stay relevant across Story, Raids, and events."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Optimizer Tools"
+    },
+    "etherealize": {
+      "title": "Universal Tower Defense Z Etherealize",
+      "description": "Complete Universal Tower Defense Z Etherealize guide: how to etherealize units, farm Etherealization Shards, find the NPC, and unlock Boundless forms.",
+      "metaTitle": "Universal Tower Defense Z Etherealize Guide - Shards & Boundless",
+      "metaDescription": "Learn how to etherealize units in Universal Tower Defense Z, farm Etherealization Shards, find the NPC, and unlock Boundless forms for late-game power.",
+      "categoryLabel": "ETHEREALIZE",
+      "whatIs": "What is Etherealize?",
+      "whatIsDescription": "Etherealize is a major upgrade system in Universal Tower Defense Z that boosts a unit's power beyond normal leveling and evolution. It requires Etherealization Shards and access to the Etherealization NPC, and it unlocks stronger forms including Boundless states for select units.",
+      "why": "Why etherealize units?",
+      "whySteps": {
+        "step1Title": "Unlock Major Power Jumps",
+        "step1Description": "Etherealizing raises a unit's damage and utility ceiling, making it essential for Raids, bosses, and high-wave Infinite.",
+        "step2Title": "Invest in Keepers",
+        "step2Description": "Shards are scarce, so etherealize units that stay in your main team long-term rather than temporary starters.",
+        "step3Title": "Reach Boundless Forms",
+        "step3Description": "Some units unlock Boundless forms through etherealization, adding endgame-scaling power for the hardest content."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Etherealize Guides"
+    },
+    "zoro": {
+      "title": "Universal Tower Defense Z Zoro Guide",
+      "description": "Complete Universal Tower Defense Z Zoro guide: how to get Zoro, evolve him, choose the best trait, collect fragments, and unlock shiny Zoro.",
+      "metaTitle": "Universal Tower Defense Z Zoro Guide - Get, Evolve & Build",
+      "metaDescription": "Master Zoro in Universal Tower Defense Z: how to get him, evolve, choose the best trait, collect fragments and evo items, and unlock shiny Zoro.",
+      "categoryLabel": "ZORO GUIDE",
+      "whatIs": "What is the Zoro Guide?",
+      "whatIsDescription": "The Zoro guide covers everything about the Zoro unit in Universal Tower Defense Z: how to obtain him through quests, evolve him with fragments and evo items, pick the best trait, build him for DPS, and unlock the shiny version for extra value.",
+      "why": "Why focus on Zoro?",
+      "whySteps": {
+        "step1Title": "Strong DPS Carry",
+        "step1Description": "Zoro is a high-value damage unit that fits into Story, Raids, and boss teams when built correctly.",
+        "step2Title": "Clear Upgrade Path",
+        "step2Description": "Follow the quest line, fragment farming, and evo item route to evolve Zoro without wasting resources.",
+        "step3Title": "Best Trait and Build",
+        "step3Description": "Pick the right trait and relic for Zoro to maximize his damage output across game modes."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Zoro Guides"
+    },
+    "boss": {
+      "title": "Universal Tower Defense Z Boss Guides",
+      "description": "Universal Tower Defense Z boss guides covering the Zero Mortal Plan and DBZ Ultra Boss fights, including locations, strategies, and rewards.",
+      "metaTitle": "Universal Tower Defense Z Boss Guides - Ultra Boss & Zero Mortal Plan",
+      "metaDescription": "Defeat Universal Tower Defense Z bosses with guides on the Zero Mortal Plan and DBZ Ultra Boss: locations, fight strategies, team comps, and rewards.",
+      "categoryLabel": "BOSS GUIDES",
+      "whatIs": "What are Boss Guides?",
+      "whatIsDescription": "Universal Tower Defense Z boss guides explain how to find and defeat late-game boss encounters like the Zero Mortal Plan and DBZ Ultra Boss. They cover boss locations, unlock requirements, recommended team comps, and the rewards each boss drops.",
+      "why": "Why fight bosses?",
+      "whySteps": {
+        "step1Title": "Earn Rare Drops",
+        "step1Description": "Bosses drop rare upgrade materials, fragments, and progression items unavailable from normal stages.",
+        "step2Title": "Test Your Strongest Team",
+        "step2Description": "Boss fights demand high single-target damage, support buffs, and survivability, making them the true test of your build.",
+        "step3Title": "Unlock Late-Game Content",
+        "step3Description": "Clearing bosses like the Ultra Boss opens access to advanced progression and exclusive rewards."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Boss Guides"
+    },
+    "event": {
+      "title": "Universal Tower Defense Z Events",
+      "description": "Universal Tower Defense Z event guides for Pirate Blitz, Blitz Pass, and limited-time updates with event currency, new units, and exclusive rewards.",
+      "metaTitle": "Universal Tower Defense Z Events - Pirate Blitz & Blitz Pass",
+      "metaDescription": "Complete Universal Tower Defense Z event guides: Pirate Blitz, Blitz Pass, event currency farming, new units, and limited-time update rewards.",
+      "categoryLabel": "EVENTS",
+      "whatIs": "What are Events?",
+      "whatIsDescription": "Universal Tower Defense Z events are limited-time updates tied to patches like Update 4.0 and seasonal content. They introduce event currency, new units, exclusive rewards, and modes such as Pirate Blitz and the Blitz Pass that expire when the event ends.",
+      "why": "Why play events?",
+      "whySteps": {
+        "step1Title": "Grab Exclusive Rewards",
+        "step1Description": "Events offer limited-time units, currency, and items that cannot be earned after the event closes.",
+        "step2Title": "Farm Event Currency",
+        "step2Description": "Use Pirate Blitz and the Blitz Pass to farm event currency for units and upgrades before the timer ends.",
+        "step3Title": "Stay Ahead of the Meta",
+        "step3Description": "New event units and updates often shift the meta, so participating keeps your roster competitive."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Events"
+    }
+  }
 }

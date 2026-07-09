@@ -1,0 +1,162 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Calculadora de Loadout de Universal Tower Defense Z: Criador de Equipes Meta",
+  description: "Otimize sua equipe com o guia definitivo da calculadora de loadout de Universal Tower Defense Z. Monte equipes S-Tier para os modos Raids, Infinito e História.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/1e1b4b/fff?text=UTDZ+Loadout+Calculator",
+  date: "2026-07-10",
+  author: "Equipe Wiki de Universal Tower Defense Z"
+}
+
+<Callout type="info" title="Guia Rápido">
+- **Estratégia de Loadout**: Uma equipe perfeita exige o equilíbrio entre DPS bruto, dano escalável, buffs de utilidade e unidades de economia.
+- **Ferramenta Principal**: Use este guia da **calculadora de loadout de universal tower defense z** para planejar melhorias de unidades e sinergias antes de gastar recursos raros.
+- **Carregadores Meta**: Unidades como Joyful Captain e King Sailor servem como os principais causadores de dano para o conteúdo de fim de jogo.
+- **Regras de Economia**: Sempre use pelo menos uma unidade de fazenda (farm) como Bulmo ou Fastcart para financiar melhorias caras no final do jogo.
+- **Economia de Recursos**: Resgate códigos ativos para garantir Rerolls de Traits e Gemas grátis antes de otimizar os status da sua equipe.
+</Callout>
+
+<Section icon={Map} title="Princípios Básicos de Loadout no UTDZ">
+
+Montar uma equipe imbatível no Universal Tower Defense Z exige mais do que apenas acumular seus personagens de maior raridade. Um loadout equilibrado deve lidar com a configuração econômica nas primeiras ondas, controle de grupo no meio do jogo e o escalamento de chefes no final do jogo. Para calcular a composição de equipe perfeita, você deve alocar funções específicas para os seus seis espaços disponíveis.
+
+| Função do Espaço | Objetivo Principal | Exemplos de Unidades Chave | Prioridade |
+|--- |--- |--- |--- |
+| **DPS Principal** | Causar dano massivo localizado ou em área (AOE) | Joyful Captain, King Sailor | **Alta** |
+| **DPS de Escalamento**| Ficar mais forte ao longo de ondas longas no modo Infinito | Jinoo (Shadow Monarch) | **Alta** |
+| **Suporte de Buff**| Multiplicar o dano e o alcance dos carregadores | Virtual Idol, Love Goddess | **Média** |
+| **Controle de Grupo**| Desacelerar, atordoar ou aplicar debuffs em inimigos rápidos | The Strongest of Today | **Média** |
+| **Economia/Farm**| Gerar fluxo de caixa constante para melhorias | Bulmo, Fastcart | **Alta** |
+| **Espaço Flexível** | Defesa aérea, dano de sangramento ou utilidade extra | Sharpshooter King, Triple Threat | **Baixa** |
+
+<Callout type="tip" title="Bônus de Sinergia">
+Sempre posicione suas unidades de Suporte de Buff onde seus círculos de alcance se sobreponham a várias unidades de DPS. Isso maximiza a utilidade de cada centavo gasto em melhorias.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Lista de Níveis de Unidades Meta e Valores da Calculadora">
+
+Para calcular o potencial de dano da sua equipe, você deve entender onde suas unidades se posicionam no meta atual. A tabela abaixo detalha as unidades S-Tier e A-Tier que dominam o fim de jogo, especificando suas funções principais e os melhores cenários de uso.
+
+| Nome da Unidade | Tier | Função Base | Melhor Modo | Força Principal |
+|--- |--- |--- |--- |--- |
+| **Joyful Captain** | **S+** | DPS / Suporte | Infinito | Dano extremo a chefes, utilidade versátil |
+| **King Sailor (Unrivaled)** | **S+** | DPS em Área | Infinito | Limpeza massiva em área, imunidade a atordoamento |
+| **Jinoo (Shadow Monarch)** | **S+** | DPS de Escalamento | Infinito | Escalamento infinito ao longo de partidas longas |
+| **The Strongest of Today** | **S+** | DPS / Debuff | Raids | Anti-hiperarmadura, alta pressão no mapa |
+| **Triple Threat (Unrivaled)**| **S** | Matador de Chefes | Raids | Alto dano de sangramento em alvo único |
+| **Love Goddess** | **S** | Suporte / Buff | Reino Virtual | Alta economia e buffs para carregador único |
+| **Virtual Idol (Super Star)**| **A** | Suporte Buffer | Infinito | Multiplicadores diretos de dano e alcance |
+| **Bulmo** | **Farm**| Economia | Todos os Modos | Geração rápida de renda no início do jogo |
+
+<CardGrid cols={3}>
+  <Card title="Carregadores S+ Tier">
+    - **Joyful Captain**: Versatilidade incomparável.
+    - **King Sailor**: Melhor dano em área da categoria.
+    - **Jinoo**: Essencial para escalamento em ondas altas no Infinito.
+  </Card>
+  <Card title="Suportes A-Tier">
+    - **Virtual Idol**: Aumenta o alcance e o dano.
+    - **Love Goddess**: Perfeita para configurações de carregador único.
+    - **The Strongest of Today**: Debuffer de primeira linha.
+  </Card>
+  <Card title="Essenciais de Economia">
+    - **Bulmo**: Baixo custo de posicionamento, retorno rápido.
+    - **Fastcart**: Excelente para equipes de escalamento caras.
+    - **Regra de Loadout**: Nunca jogue modos difíceis sem um.
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Aviso de Recursos">
+Não distribua seus recursos de melhoria uniformemente. Concentre-se em elevar seu carregador S+ Tier ao nível máximo antes de investir pesadamente em unidades de suporte.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Otimização do Loadout Passo a Passo">
+
+Siga este caminho de progressão estruturado para criar, testar e refinar seus loadouts de equipe usando nossa metodologia de otimização.
+
+<Steps>
+  <Step num="1" title="Resgate Códigos Ativos">
+    Antes de gastar gemas ou ouro, resgate todos os códigos promocionais ativos. Isso garante Rerolls de Traits, Rerolls de Status e moedas de evento gratuitos para iniciar sua build.
+  </Step>
+  <Step num="2" title="Selecione seu Carregador Principal">
+    Escolha seu causador de dano primário com base no modo de jogo. Use King Sailor para ondas pesadas de AOE ou Triple Threat para chefes de Raid de alvo único.
+  </Step>
+  <Step num="3" title="Adicione uma Unidade de Economia">
+    Equipe Bulmo ou Fastcart. Calcule seus custos de posicionamento para garantir que você possa colocar sua unidade de economia na Onda 1 sem deixar inimigos passarem.
+  </Step>
+  <Step num="4" title="Incorpore Utilidade e Buffs">
+    Preencha seus espaços restantes com um buffer como Virtual Idol e um debuffer para desacelerar chefes velozes.
+  </Step>
+  <Step num="5" title="Execute uma Simulação de Teste">
+    Inicie uma fase de baixo risco no Reino Virtual ou no Modo História para testar sua ordem de posicionamento, custos de melhoria e cobertura defensiva.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Otimização Concluída">
+Assim que seu teste for bem-sucedido sem deixar inimigos passarem, bloqueie os status da sua unidade e prepare-se para enfrentar Raids de alto nível e Chefes Mundiais.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Cálculos de Custo de Traits e Rerolls">
+
+Otimizar seu loadout requer rolar as melhores traits em suas unidades principais. Use esta tabela de referência para calcular os recursos necessários para aperfeiçoar os status da sua equipe.
+
+| Recurso de Melhoria | Fonte Principal | Melhor Caso de Uso | Prioridade para Guardar |
+|--- |--- |--- |--- |
+| **Rerolls de Traits** | Códigos, Raids, Eventos | Rolar traits S-Tier em carregadores principais | **Alta** |
+| **Rerolls de Status** | Códigos, Missões Diárias | Ajustar porcentagens de dano e tempo de recarga | **Média** |
+| **Bloqueios de Status** | Códigos, Loja Premium | Proteger rolagens perfeitas de 15% de dano | **Alta** |
+| **Gemas Universais** | Modos de Evento, História | Comprar itens de evolução de alto nível | **Média** |
+
+<Checklist
+  id="loadout-checklist"
+  title="Lista de Verificação de Prontidão do Loadout:"
+  items={[
+    "Resgatou todos os códigos ativos para Rerolls de Traits",
+    "Equipou pelo menos uma unidade DPS principal S-Tier",
+    "Equipou uma unidade de economia (Bulmo ou Fastcart)",
+    "Bloqueou status de alto valor no seu carregador principal",
+    "Testou a sinergia de posicionamento no Reino Virtual"
+  ]}
+/>
+
+<Callout type="info" title="Estratégia Pro de Reroll">
+Nunca use Bloqueios de Status em unidades de progressão temporárias. Guarde-os exclusivamente para personagens S+ Tier que permanecerão no seu loadout de fim de jogo.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Perguntas Frequentes">
+
+<FAQ items={[
+  {
+    question: "Como calculo a melhor ordem de posicionamento no UTDZ?",
+    answer: "Sempre posicione sua unidade de economia primeiro para começar a gerar dinheiro. Em seguida, coloque imediatamente uma unidade terrestre barata e de alta eficiência para defender as primeiras ondas e, depois, posicione seu DPS principal e buffers conforme sua renda aumenta."
+  },
+  {
+    question: "Por que uma calculadora de loadout de universal tower defense z é útil?",
+    answer: "Ela evita que você desperdice recursos raros, como Rerolls de Traits e Bloqueios de Status, em unidades fracas. Ao planejar as funções da sua equipe e verificar as sinergias com antecedência, você pode montar uma equipe otimizada mais rapidamente."
+  },
+  {
+    question: "Consigo concluir as Raids de fim de jogo sem uma unidade de economia?",
+    answer: "Não. As unidades de alto nível exigem investimentos massivos de dinheiro para suas etapas finais de melhoria. Sem o Bulmo ou o Fastcart gerando renda passiva, você ficará sem dinheiro e deixará passar as ondas de chefes."
+  },
+  {
+    question: "Devo priorizar os Rerolls de Traits ou os Rerolls de Status primeiro?",
+    answer: "Priorize os Rerolls de Traits primeiro para garantir traits únicas e poderosas. Depois de conseguir uma trait de alto nível em sua unidade, use Rerolls de Status e Bloqueios de Status para ajustar suas porcentagens de dano base e tempo de recarga."
+  }
+]} />
+
+</Section>

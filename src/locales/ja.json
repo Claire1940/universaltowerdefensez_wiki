@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "コード",
+    "guide": "ガイド",
+    "optimizer": "オプティマイザー",
+    "etherealize": "Etherealize",
+    "zoro": "ゾロ",
+    "boss": "ボス",
+    "event": "イベント"
+  }
+}

@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guia",
+    "optimizer": "Otimizador",
+    "etherealize": "Etherealize",
+    "zoro": "Zoro",
+    "boss": "Chefe",
+    "event": "Evento"
+  }
+}
