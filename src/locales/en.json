@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -52,728 +52,397 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Universal Tower Defense Z Gameplay",
+    "description": "Summon anime-style units, defend against enemy waves, team up with friends, and upgrade your roster through Etherealize and Evolve systems in this Roblox tower defense experience."
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "Universal Tower Defense Z",
     "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "subtitle": "Everything you need for codes, units, tier lists, traits, evolution, modes, and updates in Universal Tower Defense Z",
     "cards": [
       {
+        "icon": "Copy",
+        "title": "Universal Tower Defense Z Codes",
+        "description": "Active redeem codes for free rerolls, gems, and event currency"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
+        "title": "Universal Tower Defense Z Beginner Guide",
+        "description": "First-day loop: summon, place, defend, upgrade, and progress"
       },
       {
         "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
+        "title": "Universal Tower Defense Z Unit Tier List",
+        "description": "Meta units ranked by role for every game mode"
       },
       {
         "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
+        "title": "Universal Tower Defense Z Best Units",
+        "description": "Top build targets for DPS, support, farm, and boss kills"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
+        "icon": "Sparkles",
+        "title": "Universal Tower Defense Z Traits and Rerolls",
+        "description": "Spend rerolls on units you keep, not on starters"
       },
       {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
+        "icon": "Hammer",
+        "title": "Universal Tower Defense Z Evolution Guide",
+        "description": "Level, Etherealize, and Evolve long-term carry units"
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
+        "title": "Universal Tower Defense Z Game Modes",
+        "description": "Story, Raids, Challenges, Virtual Realm, and events"
       },
       {
         "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "title": "Universal Tower Defense Z Update 4.0",
+        "description": "Latest patch content, trailer, and fresh code drops"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+    "utdzCodes": {
+      "title": "Universal Tower Defense Z Codes",
+      "intro": "Universal Tower Defense Z codes are redeemed inside the in-game Codes menu. Launch the Roblox experience, press the Codes button on the right side of the screen, paste a working code, and press Redeem to claim the reward.",
+      "codes": [
+        {
+          "code": "SrryForWhoopsie!",
+          "status": "active",
+          "rewards": ["1 Ruler Ticket"],
+          "category": "Update 4.0 reward"
+        },
+        {
+          "code": "ReapersVsHollowDestroyers",
+          "status": "active",
+          "rewards": ["50 Trait Rerolls", "10,000 Gems"],
+          "category": "Update 4.0 reward"
+        },
+        {
+          "code": "SpectacularSpider!",
+          "status": "active",
+          "rewards": ["50 Trait Rerolls", "100,000 Universal Gems Season 1 Part 1"],
+          "category": "Update 4.0 reward"
+        },
+        {
+          "code": "TheGuyFromSmash!",
+          "status": "active",
+          "rewards": ["50 Trait Rerolls", "100,000 Universal Gems Season 1 Part 2"],
+          "category": "Update 4.0 reward"
+        },
+        {
+          "code": "Summer2026!",
+          "status": "active",
+          "rewards": ["50 Trait Rerolls", "10,000 Summer Currency"],
+          "category": "Summer event reward"
+        },
+        {
+          "code": "UTDPhase3!",
+          "status": "expired",
+          "rewards": ["Grimmjow", "Evo Materials", "150 Trait Rerolls", "100,000 Universal Gems Part 1"],
+          "category": "Recent expired code"
+        },
+        {
+          "code": "UTDXRulerIncident!",
+          "status": "expired",
+          "rewards": ["2 Ruler Tickets", "Level 30 requirement"],
+          "category": "Recent expired code"
+        },
+        {
+          "code": "UniversalTowerDefenseZ!",
+          "status": "expired",
+          "rewards": ["Evolved Vergil", "250 Trait Rerolls", "Alpha Devil's Sword", "Universal Fragments", "Ocean Fragments", "Sky Fragments", "100,000 Universal Gems Part 2"],
+          "category": "Major update code"
+        },
+        {
+          "code": "UniversalDelayDefense!",
+          "status": "expired",
+          "rewards": ["500 Trait Rerolls", "25,000 Gems", "Universal Gems", "Devil Hunter Unit", "Evolution Items", "50 Flames And Waves Capsules"],
+          "category": "Delay compensation code"
+        },
+        {
+          "code": "200KInterestedSouls!",
+          "status": "expired",
+          "rewards": ["200 Trait Rerolls", "20,000 Gems", "50,000 Universal Gems Part 2"],
+          "category": "Milestone code"
+        }
+      ]
+    },
+    "utdzBeginnerGuide": {
+      "title": "Universal Tower Defense Z Beginner Guide",
+      "intro": "Universal Tower Defense Z is a Roblox tower defense game where you summon anime-style units, place them on maps, defend against waves of enemies, and power them up through leveling, Etherealize, and Evolve systems.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
-        },
-        {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
-        },
-        {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
-        },
-        {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
-        {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
-        },
-        {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
-        },
-        {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
-        },
-        {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
+          "step": 1,
+          "title": "Start by redeeming codes",
+          "goal": "Collect free rerolls, Gems, Universal Gems, tickets, and event currency before spending resources.",
+          "actions": [
+            "Open Universal Tower Defense Z on Roblox",
+            "Press the Codes button on the right-side menu",
+            "Paste active codes and redeem all rewards"
           ]
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
+          "step": 2,
+          "title": "Summon a usable first team",
+          "goal": "Build a basic roster before pushing harder stages.",
+          "actions": [
+            "Use Gems and tickets on unit summons",
+            "Keep at least one strong ground unit",
+            "Add a hill or hybrid unit for flying enemies",
+            "Save premium rerolls for units you plan to keep"
           ]
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
+          "step": 3,
+          "title": "Place towers where they cover long paths",
+          "goal": "Get more damage from every unit by using strong map positions.",
+          "actions": [
+            "Place early DPS near bends or long straight paths",
+            "Put hill and hybrid units where they can hit air enemies",
+            "Avoid spreading upgrades across too many weak units"
           ]
         },
         {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
+          "step": 4,
+          "title": "Upgrade your carry unit first",
+          "goal": "Clear early waves faster and reduce leaks.",
+          "actions": [
+            "Pick your best damage dealer",
+            "Upgrade that unit before filling every slot",
+            "Use support or farm units after your first damage core is stable"
           ]
         },
         {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
+          "step": 5,
+          "title": "Progress through Story Mode",
+          "goal": "Unlock more content, resources, and unit upgrade paths.",
+          "actions": [
+            "Clear Story stages in order",
+            "Replay stages when you need Gems or materials",
+            "Move into Challenges, Raids, and Virtual Realm after your team is stable"
+          ]
+        },
+        {
+          "step": 6,
+          "title": "Level, Etherealize, and Evolve units",
+          "goal": "Turn strong pulls into long-term carry units.",
+          "actions": [
+            "Level useful units instead of every unit",
+            "Use Etherealize to raise unit power",
+            "Farm evolution materials for units that unlock stronger forms"
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
+    "utdzUnitTierList": {
+      "title": "Universal Tower Defense Z Unit Tier List",
+      "intro": "This tier grid focuses on units that are commonly used for Story, Infinite, Raids, Challenges, Virtual Realm, boss fights, and late-game team building.",
+      "tiers": [
+        {
+          "tier": "S+",
+          "label": "Core meta carries",
+          "units": [
+            { "name": "Joyful Captain", "roles": ["DPS", "support", "ground"], "bestFor": ["Infinite", "late game", "boss damage"] },
+            { "name": "Jinoo (Shadow Monarch)", "roles": ["DPS", "scaling"], "bestFor": ["Infinite", "long waves", "late game"] },
+            { "name": "The Strongest of Today", "roles": ["DPS", "debuff support", "ground"], "bestFor": ["Raids", "bosses", "high-wave control"] },
+            { "name": "The Strongest in History", "roles": ["DPS", "boss killer"], "bestFor": ["Raids", "boss fights", "endgame"] },
+            { "name": "King Sailor (Unrivaled)", "roles": ["DPS", "team buff", "ground"], "bestFor": ["Infinite", "team leader slot", "AOE clearing"] },
+            { "name": "Ancient Mage (Sage)", "roles": ["DPS", "support", "utility"], "bestFor": ["Story", "Raids", "flex teams"] }
+          ]
+        },
+        {
+          "tier": "S",
+          "label": "Excellent endgame options",
+          "units": [
+            { "name": "Gluttonous Warlord (Despair)", "roles": ["DPS", "ground"], "bestFor": ["late game", "boss damage"] },
+            { "name": "Triple Threat (Unrivaled)", "roles": ["DPS", "bleed", "leader buff"], "bestFor": ["boss killing", "Universal Festival teams"] },
+            { "name": "Marine Hero (Grand Fist)", "roles": ["DPS", "ground"], "bestFor": ["Story", "Infinite", "Raids"] },
+            { "name": "Alpha Devil (Omega)", "roles": ["DPS", "stun", "event unit"], "bestFor": ["bosses", "event teams", "stall damage"] },
+            { "name": "Phantom Captain (Carrier)", "roles": ["DPS", "summon damage", "AOE"], "bestFor": ["wave clear", "sustained damage"] },
+            { "name": "Mimicry Sorcerer (Cursed Love)", "roles": ["DPS", "synchro", "ground"], "bestFor": ["Synchro Clash", "late-game DPS"] },
+            { "name": "Love Goddess", "roles": ["support", "buff", "economy"], "bestFor": ["single-carry teams", "Virtual Realm"] }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Strong alternatives",
+          "units": [
+            { "name": "Prodigy Mage (Apprentice)", "roles": ["support", "buff", "stall"], "bestFor": ["support teams", "Infinite"] },
+            { "name": "Virtual Idol (Super Star)", "roles": ["support", "buff"], "bestFor": ["Infinite", "range and damage buffs"] },
+            { "name": "Sharpshooter King (Trapper)", "roles": ["DPS", "hill"], "bestFor": ["air coverage", "mid-game progression"] },
+            { "name": "Crow Shinobi (Reanimated)", "roles": ["DPS", "debuff", "AOE"], "bestFor": ["Legend stages", "debuff teams"] },
+            { "name": "Sasku (Great War)", "roles": ["DPS", "support", "debuff"], "bestFor": ["Raids", "Story", "flex teams"] },
+            { "name": "Rule (ROOM)", "roles": ["DPS", "utility"], "bestFor": ["Story", "mid-game teams"] }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Usable progression picks",
+          "units": [
+            { "name": "The Drink (Survivor)", "roles": ["DPS", "ground"], "bestFor": ["Story", "early Infinite"] },
+            { "name": "Psycho (100%)", "roles": ["DPS", "utility"], "bestFor": ["Story", "mid-game"] },
+            { "name": "Koyote (Number One)", "roles": ["DPS"], "bestFor": ["progression", "backup damage"] },
+            { "name": "Super Roku (Enraged)", "roles": ["DPS", "hill"], "bestFor": ["air coverage", "early teams"] },
+            { "name": "Ultiorra (Oblivion)", "roles": ["DPS", "hill", "stun"], "bestFor": ["wave control", "early Infinite"] }
+          ]
+        },
+        {
+          "tier": "Farm",
+          "label": "Economy units",
+          "units": [
+            { "name": "Bulmo", "roles": ["farm", "economy"], "bestFor": ["early income", "upgrade rushing"] },
+            { "name": "Fastcart", "roles": ["farm", "economy"], "bestFor": ["Synchro teams", "expensive upgrades"] }
+          ]
+        }
+      ]
+    },
+    "utdzBestUnits": {
+      "title": "Universal Tower Defense Z Best Units",
+      "intro": "The best UTDZ units are not only high-rank units; they also need strong role value. A good team usually mixes one or two main DPS carries, at least one support or buffer, air coverage, and an economy option when upgrades are expensive.",
+      "units": [
+        { "name": "Joyful Captain", "role": "Main DPS / Support", "bestFor": ["Infinite", "late-game teams", "boss damage"], "whyUseIt": "A top-end carry with strong damage value and useful support potential, making it a safe long-term investment.", "buildFocus": ["damage", "critical damage", "cooldown"] },
+        { "name": "King Sailor (Unrivaled)", "role": "AOE DPS / Leader Buff", "bestFor": ["team leader slot", "Infinite", "AOE clearing"], "whyUseIt": "Brings massive AOE damage, self buffs, team buffs, and stun immunity, which makes it valuable in many hard modes.", "buildFocus": ["damage", "cooldown", "team buff value"] },
+        { "name": "The Strongest of Today", "role": "DPS Support / Debuffer", "bestFor": ["Raids", "boss control", "high-wave defense"], "whyUseIt": "Combines high damage with debuffs, anti-hyperarmor value, map-wide pressure, and strong control tools.", "buildFocus": ["damage", "critical damage", "debuff uptime"] },
+        { "name": "Jinoo (Shadow Monarch)", "role": "Scaling DPS", "bestFor": ["Infinite", "long runs", "late-game scaling"], "whyUseIt": "Performs best in longer modes where scaling damage has time to build up.", "buildFocus": ["damage", "scaling", "wave endurance"] },
+        { "name": "Ancient Mage (Sage)", "role": "Flexible DPS / Support", "bestFor": ["Story", "Raids", "flex teams"], "whyUseIt": "A versatile unit that can contribute burst damage, debuffs, support buffs, and damage-over-time value.", "buildFocus": ["damage", "crit", "utility"] },
+        { "name": "Triple Threat (Unrivaled)", "role": "Boss Killer / Bleed DPS", "bestFor": ["boss fights", "Universal Festival teams", "late-game DPS"], "whyUseIt": "Strong against bosses thanks to high damage, bleed value, leader utility, and strong endgame scaling.", "buildFocus": ["damage-over-time", "critical damage", "leader slot value"] },
+        { "name": "Virtual Idol (Super Star)", "role": "Buffer Support", "bestFor": ["Infinite", "support teams", "range and damage buffs"], "whyUseIt": "Boosts nearby units with damage or range and becomes especially useful after your main DPS units are already placed.", "buildFocus": ["buff strength", "placement", "support timing"] },
+        { "name": "Bulmo", "role": "Farm / Economy", "bestFor": ["early income", "upgrade rushing", "expensive teams"], "whyUseIt": "Helps generate resources faster so expensive carries and Synchro setups can reach important upgrades sooner.", "buildFocus": ["income", "early placement", "upgrade timing"] }
+      ]
+    },
+    "utdzTraitsAndRerolls": {
+      "title": "Universal Tower Defense Z Traits and Rerolls Guide",
+      "intro": "Traits and stats are long-term power upgrades in Universal Tower Defense Z. The safest approach is to redeem codes first, build a stable team, then reroll only your best units instead of spending resources on early temporary units.",
       "faqs": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "question": "What should Trait Rerolls be used for in Universal Tower Defense Z?",
+          "answer": "Trait Rerolls are best saved for high-rarity or long-term carry units. Do not spend large reroll stacks on starter units unless that unit is still part of your main team for Story, Raid, World Raid, or Event content.",
+          "bullets": [
+            "Use them after you know which unit will stay on your team.",
+            "Prioritize damage carries, boss killers, support units, and rare event units.",
+            "Avoid rerolling every new unit immediately."
+          ]
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "question": "How do Stat Rerolls and Stat Locks work in Universal Tower Defense Z?",
+          "answer": "Stat Rerolls help improve unit stat lines, while Stat Locks are used to protect the stats you want to keep while rerolling the rest. Use Stat Locks only when the unit is already worth heavy investment.",
+          "bullets": [
+            "Reroll stats after choosing a serious main unit.",
+            "Lock strong stats before chasing a better full roll.",
+            "Do not burn Stat Locks on units you plan to replace."
+          ]
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "question": "Where do reroll resources connect with Universal Tower Defense Z codes?",
+          "answer": "UTDZ codes often reward upgrade resources such as Trait Rerolls, Stat Rerolls, Stat Locks, Relic Rerolls, Gems, Gold, Universal Gems, and event currency. Redeem codes before doing major upgrades so you can plan around your full resource total.",
+          "bullets": [
+            "Check official Roblox, Discord, X, and YouTube update posts after patches.",
+            "Use fresh code rewards to improve your strongest units first.",
+            "Keep some rerolls saved for new update units."
+          ]
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "question": "What is the safest reroll priority in Universal Tower Defense Z?",
+          "answer": "First build a usable team, then upgrade one main damage unit, then invest in a support or boss-focused unit. Spread rerolls only after your core team can clear farming stages consistently.",
+          "bullets": [
+            "Priority 1: main carry unit.",
+            "Priority 2: support, buff, or utility unit.",
+            "Priority 3: raid or event-specific unit."
+          ]
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+    "utdzEvolutionAndEtherealize": {
+      "title": "Universal Tower Defense Z Evolution and Etherealize Guide",
+      "intro": "Universal Tower Defense Z uses several growth layers: summoning units, leveling them, improving their traits and stats, Etherealizing them, and Evolving them for more power. The best upgrade path is to invest slowly into units that remain useful across Story, raids, events, and endless-style content.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "step": 1,
+          "title": "Choose a Long-Term Unit First",
+          "description": "Pick a unit you expect to use beyond early Story stages before spending rare upgrade materials.",
+          "tip": "Good targets are high-rarity damage units, boss killers, strong supports, and event units with lasting value."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "step": 2,
+          "title": "Level the Unit Before Heavy Rerolls",
+          "description": "Use normal progression and farming to raise the unit first, then decide whether it deserves Trait Rerolls, Stat Rerolls, or Stat Locks.",
+          "tip": "Do not chase perfect rolls on a unit that is still underleveled or untested."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "step": 3,
+          "title": "Etherealize Units That Stay in Your Main Team",
+          "description": "Etherealizing is a major power step, so use Etherealization Shards on units that help with harder waves, bosses, and late-game farming.",
+          "tip": "Save shards for units you will keep using after the next summon session."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "step": 4,
+          "title": "Evolve After You Confirm the Unit's Role",
+          "description": "Evolution is best used when the unit already has a clear job, such as clearing waves, killing bosses, supporting allies, or farming currency.",
+          "tip": "A unit with a clear role gives better value than a random unit upgraded only because materials are available."
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "step": 5,
+          "title": "Test the Upgraded Unit in Harder Modes",
+          "description": "After leveling, Etherealizing, or Evolving, test the unit in raids, events, Virtual Realm, or high-wave content to confirm the upgrade helped your team.",
+          "tip": "If the unit improves clear speed or boss damage, it is a strong candidate for more reroll investment."
         }
+      ]
+    },
+    "utdzGameModes": {
+      "title": "Universal Tower Defense Z Game Modes Guide",
+      "intro": "UTDZ is built around summoning units and defending against waves of enemies with friends across adventurous game modes. Story is the safest starting point, while harder modes are better for farming, testing upgraded teams, and earning event-related rewards.",
+      "modes": [
+        { "mode": "Story Mode", "bestFor": "New player progression", "howItWorks": "Clear normal stages, learn enemy waves, and unlock more of the game step by step.", "rewards": "Progression rewards, account growth, Gems, Gold, and upgrade access.", "priority": "Start here first." },
+        { "mode": "Challenges", "bestFor": "Testing team strength", "howItWorks": "Play stages with special rules, harder enemy pressure, or stricter team requirements.", "rewards": "Upgrade materials, currency, and challenge-specific rewards.", "priority": "Play after your basic team is stable." },
+        { "mode": "Virtual Realm", "bestFor": "Farming and replayable progression", "howItWorks": "Use repeatable stages to test unit performance and build resources over time.", "rewards": "Currency, unit progress, and farming value.", "priority": "Use when you need steady grinding." },
+        { "mode": "Raids", "bestFor": "Co-op clears and stronger rewards", "howItWorks": "Team up with other players for harder encounters that reward better-built teams.", "rewards": "Raid drops, fragments, reroll resources, and unit upgrade materials.", "priority": "Play when your main units are leveled." },
+        { "mode": "World Raid", "bestFor": "Large co-op boss content", "howItWorks": "Join bigger group fights where boss damage, team roles, and unit placement matter more.", "rewards": "Boss drops, event-style rewards, currency, and progression materials.", "priority": "Best for coordinated players." },
+        { "mode": "Ultra Boss", "bestFor": "Late-game boss testing", "howItWorks": "Fight high-pressure boss stages that reward strong single-target damage, support, and survivability.", "rewards": "Rare drops, upgrade materials, and boss-related progression items.", "priority": "Save for stronger teams." },
+        { "mode": "Event Modes", "bestFor": "Limited-time update rewards", "howItWorks": "Play patch-specific content tied to new updates, seasonal currency, new units, and code drops.", "rewards": "Event currency, new units, rerolls, Gems, Gold, and exclusive rewards.", "priority": "Prioritize while events are active." }
+      ]
+    },
+    "utdzUpdate4": {
+      "title": "Universal Tower Defense Z Update 4.0 Guide",
+      "intro": "Universal Tower Defense Z Update 4.0 is presented as a major update for the Roblox tower defense experience. Players should use this section to follow the update launch, trailer highlights, new event content, reroll resources, and patch-related code opportunities.",
+      "cards": [
+        { "title": "Update 4.0: UTDZ", "category": "Patch Highlight", "description": "The game page now appears under Universal Tower Defense Z with the 4.0 update theme. The official Roblox description highlights summoning units, fighting enemy waves, co-op game modes, leveling, Etherealizing, and Evolving units.", "playerAction": "Open the Roblox game page first to confirm the live title, servers, store items, and active experience status." },
+        { "title": "Official Trailer and Teaser", "category": "Official Footage", "description": "The official Universal Tower Defense YouTube channel lists Update 4.0 UTDZ trailer and teaser videos for the new version. The trailer positions the update as a major summer event with new themed content.", "playerAction": "Watch the latest official video before writing patch summaries or unit previews." },
+        { "title": "New Event Focus", "category": "Event Content", "description": "Update 4.0 is tied to fresh event content and limited-time rewards. Event modes are the best place to check for new currency, special rewards, and units introduced during the patch window.", "playerAction": "Prioritize event stages while the update is active, then spend rewards on long-term units." },
+        { "title": "Code Opportunities", "category": "Codes and Rewards", "description": "Major UTDZ updates commonly bring new code rewards such as Trait Rerolls, Stat Rerolls, Stat Locks, Relic Rerolls, Gems, Gold, Universal Gems, and event currency.", "playerAction": "Check official Discord, X, Roblox community posts, and YouTube descriptions after each patch or hotfix." },
+        { "title": "Upgrade Priority After 4.0", "category": "Progression", "description": "Use new update rewards on units that help with Story clears, raids, boss fights, and event farming. Avoid spending all rerolls before testing new units and update balance changes.", "playerAction": "Save part of your reroll stack for new 4.0 units and limited-time event units." }
       ]
     }
   },
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Universal Tower Defense Z",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Universal Tower Defense Z?",
+        "answer": "Universal Tower Defense Z (UTDZ) is an anime-style Roblox tower defense game where you summon units, place them on maps, defend against enemy waves, and upgrade your roster through leveling, Etherealize, and Evolve systems."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Where can I play Universal Tower Defense Z?",
+        "answer": "Universal Tower Defense Z is available on Roblox. You can launch it directly from the official Roblox game page and play on PC, Mac, mobile, or any device that supports Roblox."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "How do I redeem Universal Tower Defense Z codes?",
+        "answer": "Open Universal Tower Defense Z on Roblox, press the Codes button on the right side of the screen, paste an active code, and press Redeem to claim rewards like Trait Rerolls, Gems, and Universal Gems."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "What are the best units in Universal Tower Defense Z?",
+        "answer": "The best Universal Tower Defense Z units combine high damage with strong role value. Top picks include Joyful Captain, King Sailor (Unrivaled), The Strongest of Today, and Jinoo (Shadow Monarch) for Infinite, Raids, and late-game content."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "Is Universal Tower Defense Z free to play?",
+        "answer": "Yes. Universal Tower Defense Z is free to play on Roblox, with optional in-game summons, currency, and upgrade resources that you can also earn through codes, events, and normal progression."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "How often does Universal Tower Defense Z get updates?",
+        "answer": "Universal Tower Defense Z receives major updates like Update 4.0 that add new units, event content, traits, and codes. Follow the official Discord, X, and YouTube channels to track each patch and new code drop."
       }
     ]
   },
@@ -800,126 +469,5 @@
     "copyright": "© 2026 Universal Tower Defense Z Wiki. Not affiliated with the developers of Universal Tower Defense Z.",
     "disclaimer": "Unofficial fan-made resource website."
   },
-  "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
-      "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
-    },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
-      "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
-    },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
-      "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
-    },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
-      "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
-    },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
-      "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
-    }
-  }
+  "pages": {}
 }
