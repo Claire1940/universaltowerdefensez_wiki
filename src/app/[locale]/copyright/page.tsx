@@ -91,9 +91,15 @@ export default function Copyright() {
               endorsed by, or associated with:
             </p>
             <ul>
-              <li><strong>Roblox</strong> - Owner of the Roblox platform</li>
+              <li><strong>Roblox Corporation</strong> - Owner of the Roblox platform</li>
               <li><strong>Universal Tower Defense Z Developers</strong> - Creators of the Universal Tower Defense Z game</li>
+              <li><strong>Shueisha Inc.</strong> - Publisher of the One Piece, Dragon Ball, and Bleach manga</li>
+              <li><strong>Toei Animation Co., Ltd.</strong> - Animation studio for One Piece and Dragon Ball</li>
+              <li><strong>Pierrot Co., Ltd.</strong> - Animation studio for Bleach</li>
             </ul>
+            <p>
+              <strong>The anime and manga characters referenced in this game and on this website—including those from One Piece, Dragon Ball, and Bleach—are the property of their respective creators and copyright holders (including Shueisha Inc., Toei Animation Co., Ltd., and Pierrot Co., Ltd.).</strong>
+            </p>
             <p>
               All game-related content, including but not limited to:
             </p>
@@ -155,6 +161,9 @@ export default function Copyright() {
               <li><strong>ROBLOX</strong> - Trademark of Roblox Corporation</li>
               <li><strong>Universal Tower Defense Z</strong> - Trademark of the game developers</li>
               <li><strong>Universal Tower Defense Z Wiki</strong> - Our own branding (not affiliated with the game)</li>
+              <li><strong>One Piece</strong> - Trademark of Eiichiro Oda / Shueisha Inc. / Toei Animation Co., Ltd.</li>
+              <li><strong>Dragon Ball</strong> - Trademark of Akira Toriyama / Shueisha Inc. / Toei Animation Co., Ltd.</li>
+              <li><strong>Bleach</strong> - Trademark of Tite Kubo / Shueisha Inc. / Pierrot Co., Ltd.</li>
             </ul>
             <p>
               All other trademarks, service marks, and trade names referenced on this website are the property of

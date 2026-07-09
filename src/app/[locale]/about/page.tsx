@@ -235,7 +235,10 @@ export default function About() {
             <h2>Important Disclaimer</h2>
             <p className="text-yellow-400/90">
               <strong>Universal Tower Defense Z Wiki is an unofficial fan-made website.</strong> We are NOT affiliated with,
-              endorsed by, or associated with the developers of Universal Tower Defense Z or any official entities.
+              endorsed by, or associated with the developers of Universal Tower Defense Z, Roblox Corporation, Shueisha Inc.,
+              Toei Animation Co., Ltd., Pierrot Co., Ltd., or any other official entities. All anime and manga characters,
+              names, and imagery—including those from One Piece, Dragon Ball, and Bleach—are the property of their
+              respective owners and are used here for informational and educational purposes only under fair use principles.
             </p>
             <p>
               All game content, trademarks, characters, and assets are the property of their respective owners.
